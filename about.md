@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 slug: about
 date_published: 2018-08-17T21:02:26.000Z
 date_updated: 2019-08-22T15:22:32.000Z

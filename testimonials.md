@@ -1,9 +1,10 @@
 ---
-title: Testimonials
+# title: Testimonials
 slug: testimonials
 date_published: 2019-05-22T21:42:30.000Z
 date_updated: 2019-08-30T07:52:05.000Z
 layout: page
+hidden: true
 ---
 
 **Yohan**
