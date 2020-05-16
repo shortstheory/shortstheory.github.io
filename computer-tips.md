@@ -33,6 +33,9 @@ I frequently find myself needing to lookup how to do simple things with Linux an
 
     git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 
+### Get all Git submodules
+
+    git submodule update --init --recursive
 
 ### Change Video Bitrate
 
