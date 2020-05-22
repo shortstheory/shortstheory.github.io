@@ -12,6 +12,8 @@ This is a list of the projects which I'm proud of making:
 
 ### F1/10 Autonomous Racing
 
+[![lucascheuer/F110-Final - GitHub](https://gh-card.dev/repos/lucascheuer/F110-Final.svg)](https://github.com/lucascheuer/F110-Final)
+
 This was a group project for the ESE615 F1/10 Autonomous Racing course. Using ROS, we had to develop an agent capable of overtaking another agent without collisions. The agents in question are 1:10 scale models of RC cars, equipped with a 2D LIDAR and an NVidia Jetson TX2. This was a deceptively simple task and we ended up using Model Predictive Control with some interesting hacks in our final submission. We also tried using a heavily modified version of RRT* and Gaussian processes for opponent project. This was a fun robotics project, and my only regret is that we couldn't run it on the awesome F1/10 cars. That said, it works pretty well in simulation!
 
 <i class="fa fa-code" aria-hidden="true"></i>[  Code  ](https://github.com/lucascheuer/F110-Final/)
@@ -19,6 +21,8 @@ This was a group project for the ESE615 F1/10 Autonomous Racing course. Using RO
 <i class="far fa-file-pdf"></i>[  Report  ](/static/autonomous-racing.pdf)
 
 ### RGB-D Object Tracker
+
+[![shortstheory/depthtracking650 - GitHub](https://gh-card.dev/repos/shortstheory/depthtracking650.svg)](https://github.com/shortstheory/depthtracking650)
 
 This project was our final project for the ESE650 Learning in Robotics course. We wanted to play with RGB-D cameras and apply them to tracking arbitrary objects. As RGB-D cameras can estimate depth, they have the potential to estimate the 6DOF relative position of an object much better than a monocular RGB camera can. However, RGB-D cameras suffer from having a limited range, usually limited to 5m or else. In this project, we tried applying a particle filter to estimate the 3DOF relative position and velocity for the three main cases which can occur when tracking an object 1) object is in range of the depth sensor and is visible in the RGB camera 2) object is out of range of the depth sensor but is still visible in the RGB camera and 3) object is no longer visible. We experimented using a dataset from the [Princeton RGB-D tracking benchmark](http://tracking.cs.princeton.edu/dataset.html). It would be interesting to see how well this approach works in realtime with actual hardware.
 
