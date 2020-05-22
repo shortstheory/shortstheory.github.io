@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: <i class="fab fa-pied-piper-pp"></i>  Projects
 slug: projects
 date_published: 2019-05-10T13:48:23.000Z
 date_updated: 2019-12-27T00:37:53.000Z
