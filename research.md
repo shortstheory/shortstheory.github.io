@@ -1,5 +1,5 @@
 ---
-title: <i class="fab fa-searchengin"></i>  Research
+title: Research
 slug: research
 date_published: 2019-05-10T10:49:50.000Z
 date_updated: 2019-12-20T06:00:04.000Z

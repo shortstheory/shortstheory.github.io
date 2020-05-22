@@ -1,5 +1,5 @@
 ---
-title: <i class="fas fa-laptop-code"></i>  //Computer Tips
+title: // Computer Tips
 slug: computer-tips
 date_published: 2019-12-26T22:54:17.000Z
 date_updated: 2020-02-06T00:38:31.000Z

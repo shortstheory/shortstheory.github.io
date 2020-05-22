@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fas fa-archive"></i>  Archive
+title: Archive
 ---
 
 

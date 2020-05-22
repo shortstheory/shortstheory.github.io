@@ -1,5 +1,5 @@
 ---
-title: <i class="fas fa-book"></i>  Books I've Read
+title: Books I've Read
 slug: books
 date_published: 2019-12-31T06:54:07.000Z
 date_updated: 2020-04-30T04:59:50.000Z
