@@ -22,11 +22,11 @@ This was a group project for the ESE615 F1/10 Autonomous Racing course. Using RO
 
 ### RGB-D Object Tracker
 
-[![shortstheory/depthtracking650 - GitHub](https://gh-card.dev/repos/shortstheory/depthtracking650.svg)](https://github.com/shortstheory/depthtracking650)
+<!-- [![shortstheory/depthtracking650 - GitHub](https://gh-card.dev/repos/shortstheory/depthtracking650.svg)](https://github.com/shortstheory/depthtracking650) -->
 
 This project was our final project for the ESE650 Learning in Robotics course. We wanted to play with RGB-D cameras and apply them to tracking arbitrary objects. As RGB-D cameras can estimate depth, they have the potential to estimate the 6DOF relative position of an object much better than a monocular RGB camera can. However, RGB-D cameras suffer from having a limited range, usually limited to 5m or else. In this project, we tried applying a particle filter to estimate the 3DOF relative position and velocity for the three main cases which can occur when tracking an object 1) object is in range of the depth sensor and is visible in the RGB camera 2) object is out of range of the depth sensor but is still visible in the RGB camera and 3) object is no longer visible. We experimented using a dataset from the [Princeton RGB-D tracking benchmark](http://tracking.cs.princeton.edu/dataset.html). It would be interesting to see how well this approach works in realtime with actual hardware.
 
-<i class="fa fa-code" aria-hidden="true"></i>[  Code  ](https://github.com/shortstheory/depthtracking650/)
+<i class="fa fa-code" aria-hidden="true"></i>[  Code  ](https://github.com/shortstheory/RGBD-Tracking)
 <i class="far fa-file-pdf"></i>[  Report  ](/static/depth-tracking.pdf)
 
 ### 2019
