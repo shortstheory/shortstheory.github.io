@@ -5,6 +5,7 @@ date_published: 2015-06-17T08:59:00.000Z
 date_updated: 2019-05-20T09:59:04.000Z
 tags: JEE, Life
 layout: post
+draft: true
 ---
 
 As the title indicates, it's been a while since I've written anything here. I don't know if anyone still reads this blog, but I sure appreciate if you do!

@@ -159,3 +159,8 @@ In `/boot/wpa_supplicant.conf`
 ### Change to libinput for touchpad
 
 Uninstall synaptics.
+
+## Fresh Install
+
+    zoom code slack
+    geany mendeleydesktop
