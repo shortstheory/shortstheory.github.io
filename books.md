@@ -17,6 +17,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - Looking for Alaska - John Green
 - Paper Towns - John Green
 - **The Ultimate Hitchhiker's Guide to the Galaxy - Douglas Adams**
+- **The Big Short - Michael Lewis**
 
 ### 2019
 
