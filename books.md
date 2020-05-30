@@ -18,6 +18,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - Paper Towns - John Green
 - **The Ultimate Hitchhiker's Guide to the Galaxy - Douglas Adams**
 - **The Big Short - Michael Lewis**
+- **So You've Been Publicly Shamed - Jon Ronson**
 
 ### 2019
 
@@ -30,6 +31,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - **Nothing to Envy - Barbara Demick**
 - The Kite Runner - Khaled Hosseini
 - **The Hunt for the Red October - Tom Clancy**
+- Artemis - Andy Weir
 - Dying to be Me - Anitha Moorjani
 - The Moment of Lift - Melinda Gates
 - Deep Work - Cal Newport
