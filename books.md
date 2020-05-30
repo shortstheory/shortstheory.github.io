@@ -47,6 +47,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - **When Breath Becomes Air - Paul Kalanithi**
 - **The Last Lecture - Randy Pausch**
 - Tell Tale - Jeffery Archer
+- The Defining Decade - Meg Jay
 - Being Mortal - Atul Gawande
 - **Uncle Dynamite - P.G. Wodehouse**
 - **Paths of Glory - Jeffery Archer**
