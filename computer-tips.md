@@ -65,6 +65,10 @@ I frequently find myself needing to lookup how to do simple things with Linux an
 
     timedatectl set-local-rtc 1 --adjust-system-clock
 
+### SSHFS Example
+
+    sshfs USER@IP:/$PATH $LOCAL_PATH
+
 
 ## Python and Jupyter
 
