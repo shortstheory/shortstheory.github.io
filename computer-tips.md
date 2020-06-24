@@ -100,6 +100,16 @@ I frequently find myself needing to lookup how to do simple things with Linux an
     %load_ext autoreload
     %autoreload 2
 
+### Creating a new Jupyter Notebook
+
+    import numpy as np
+    from matplotlib import pyplot as plt
+    from scipy import interpolate
+    import matplotlib.image as mpimg
+    import os
+    import PIL.Image as Image
+    %load_ext autoreload
+    %autoreload 2
 
 ## Raspberry Pi
 
