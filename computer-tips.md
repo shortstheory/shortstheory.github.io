@@ -152,9 +152,7 @@ In `/boot/wpa_supplicant.conf`
 
 ### Build with Debug Flags
 
-```
-  catkin_make -DCMAKE_BUILD_TYPE=Debug
-```
+    catkin_make -DCMAKE_BUILD_TYPE=Debug
 
 ## KDE Plasma
 
