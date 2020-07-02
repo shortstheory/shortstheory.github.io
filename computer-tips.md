@@ -69,6 +69,17 @@ I frequently find myself needing to lookup how to do simple things with Linux an
 
     sshfs USER@IP:/$PATH $LOCAL_PATH
 
+### Screen Tips
+
+    # Create a named screen
+    screen -S myscreen
+    # Reconnect
+    screen -r myscreen
+    # List screens
+    screen -ls
+    # Detach
+    Ctrl+A+D
+
 
 ## Python and Jupyter
 
@@ -110,6 +121,13 @@ I frequently find myself needing to lookup how to do simple things with Linux an
     import PIL.Image as Image
     %load_ext autoreload
     %autoreload 2
+
+### Main Function
+    # wtf is this so hard to remember?
+    def main(): 
+        print("hey there") 
+    if __name__=="__main__": 
+        main() 
 
 ## Raspberry Pi
 
