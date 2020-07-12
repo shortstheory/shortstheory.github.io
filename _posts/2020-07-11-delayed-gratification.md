@@ -24,7 +24,7 @@ A famous experiment, usually cited in the same breath as this topic, is the Stan
 
 Delayed gratification is an idea which can be applied to work as well - you need to hard in the moment to experience the delayed gratification of a successful project in the end. However, delayed gratification *requires* an assurance of stability in the future to be effective. Suppose the children in the marshmallow experiment were told that there was an equal chance of either getting two marshmallows or none at all after waiting for 15 minutes. Would any of them have chosen to wait then?
 
-The main issue which many of us are doubtless experiencing is uncertainty, and with that, any decision making is severely impaired. It's hard to mentally justify working on long-term problems when the near future itself looks unclear. Self-motivation can keep you going for a while, but it is a scarce resource which needs to be topped up regularly. 
+The main issue which many of us are doubtless experiencing is uncertainty, and with that, any decision making is severely impaired. It's hard to mentally justify working on long-term problems when the near future itself looks unclear. Self-motivation can keep you going for a while, but it is a scarce resource which needs to be topped up regularly.
 
 Fortunately, I'm in the position where I can choose my own hours and how much I want to work for week, so I can scale back if I don't enjoy what I'm doing. Some other things which I have been trying out is to keep in touch with my groups of friends and cycling every day to bring some structure in my day and change in environment. Still, I am yearning for one of these days to bring some much needed [*gratisfaction*](https://www.youtube.com/watch?v=5QvLP1_T_Fc).
 
