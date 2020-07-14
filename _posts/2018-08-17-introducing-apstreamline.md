@@ -14,9 +14,9 @@ I'm very excited to announce the release of a network adaptive video streaming s
 
 ## Links to the code
 
-[APStreamline](https://github.com/shortstheory/adaptive-streaming)
-[APWeb server](https://github.com/shortstheory/APWeb)
-[My APWeb PR](https://github.com/peterbarker/APWeb/pull/2)
+* [APStreamline](https://github.com/shortstheory/adaptive-streaming)
+* [APWeb server](https://github.com/shortstheory/APWeb)
+* [My APWeb PR](https://github.com/peterbarker/APWeb/pull/2)
 
 ## About
 
