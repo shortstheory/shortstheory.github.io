@@ -20,6 +20,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - **The Big Short - Michael Lewis**
 - **So You've Been Publicly Shamed - Jon Ronson**
 - The Fowl Twins - Eoin Colfer
+- The Great Influenza - John M. Barry
 
 ### 2019
 

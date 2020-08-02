@@ -29,7 +29,7 @@ The Wetlands is a pretty interesting place located in North Singapore. It's so c
 
 *The famous Henderson Waves Bridge*
 
-The Southern Ridges is a trail running through five parks, from Mount Faber (near VivoCity) to Labrador Nature Reserve (near the NUS campus). It's an amazing 10km walk and I loved the views from the Henderson Waves bridge and the Canopy Walk - only then do you realise how green Singapore is! As an aside, I tried making an 8km evening run from Mount Faber till Science Park, but I quickly got worn out by all the steps and elevation. Walking through the park is definitely more enjoyable.
+The Southern Ridges is a trail running through five parks, from Mount Faber (near VivoCity) to Labrador Nature Reserve (near the NUS campus). It's an amazing 10km walk and I loved the views from the Henderson Waves bridge and the Canopy Walk. I really appreciated how green Singapore is from the views at Henderson Waves! As an aside, I tried making an 8km evening run from Mount Faber till Science Park, but I quickly got worn out by all the steps and elevation. Walking through the park is definitely more enjoyable.
 
 #### Marina Barrage
 
@@ -45,13 +45,13 @@ If you're into ships, the Marina Barrage can offer quite a spectacular view. The
 
 *View of Chek Jawa from the Jejawi Tower*
 
-This is one of the more exciting parts of Singapore. Pulau Ubin is an island, located in the North-West part of Singapore, accessible by a S$3 (March 2019) boat ride from Changi Village. Like the Sungei Boloh Wetlands, the island is geographically close to Malaysia. It's so close that I noticed that my cellphone shifted to receiving signals from MyMaxis Malaysia instead of StarHub Singapore!
+This is one of the more exciting parts of Singapore. Pulau Ubin is an island located in the North-West part of Singapore. It's accessible by a S$3 (March 2019) boat ride from Changi Village. Like the Sungei Boloh Wetlands, the island is geographically close to Malaysia. It's so close that I noticed that my cellphone shifted to receiving signals from MyMaxis Malaysia instead of StarHub Singapore!
 
 ![20190302_083938302_iOS](/content/images/2019/05/20190302_083938302_iOS.jpg)
 
 *Cycling Trail at Pulau Ubin*
 
-Pulau Ubin is by no means devoid of artificial development, but I got the feeling that NParks went to great lengths to make it traversable while still preserving the natural beauty of the island. Speaking of traversal, the best way to get around Pulau Ubin is by mountain bike, which can be rented near the jetty for S$10-15 for the entire day. The Chek Jawa wetlands is similar to Sungei Boloh (though we didn't see half as many wild animals when we went). The Ketam Mountain Bike Park in the west part of Pulau Ubin can be quite a challenge. The Blue Trails are moderately difficult with rough paths and small slopes, while the Black Diamond and Double Black Diamond trails are utterly *brutal*. Attempting the Black trails with the Reebok bike I rented was out of the question.
+While Pulau Ubin has had some artificial transformation, I got the feeling that NParks went to great lengths to make it easily traversable while preserving the natural beauty of the island. Speaking of traversal, the best way to get around Pulau Ubin is by mountain bike, which can be rented near the jetty for S$10-15 for the entire day. The Chek Jawa wetlands is similar to Sungei Boloh (though we didn't see half as many wild animals when we went). The Ketam Mountain Bike Park in the west part of Pulau Ubin can be quite a challenge. The Blue Trails are moderately difficult with rough paths and small slopes, while the Black Diamond and Double Black Diamond trails are utterly *brutal*. Attempting the Black trails with the Reebok bike I rented was out of the question.
 
 We spent nearly six hours cycling around Pulau Ubin. Carrying food and water is recommended, though there are plenty of vending machines dotted about the island. Sunscreen is also a must.
 
@@ -61,13 +61,13 @@ We spent nearly six hours cycling around Pulau Ubin. Carrying food and water is 
 
 *Singapore's Skyline from the ferry*
 
-This is another island adventure, located towards the southern part of Singapore. The ferry ride to the island is wonderful - it was fun to watch the Singapore coastline go by - from the sweeping skylines of the Marina Bay Financial Centre to the HDBs in Jurong. Unlike Pulau Ubin, carrying supplies for St. John Island is *imperative*. There is no drinking water on the island, nor is there any food to be found. At my insistence, we went to see the Tropical Marine Science Institute's research lab. Of interest is Lazarus Island which is a nice place to relax.
+This is another island adventure, located towards the southern part of Singapore. The ferry ride to the island is wonderful and it was fun to watch the Singapore coastline go by - from the sweeping skylines of the Marina Bay Financial Centre to the HDBs in Jurong. Unlike Pulau Ubin, carrying supplies for St. John Island is *imperative*. There is no drinking water on the island, nor is there any food to be found. At my insistence, we went to see the Tropical Marine Science Institute's research lab. Of interest is the bucolic Lazarus Island.
 
 ![20190512_050231232_iOS](/content/images/2019/05/20190512_050231232_iOS.jpg)
 
 *We spent half an hour skipping stones here!*
 
-The same ferry ticket also includes a stop at Kusu Island, which looked lovely, but I can't offer any suggestions on, for we had beat a hasty retreat to Singapore after completely running through whatever little supplies we had brought with us.
+The same ferry ticket also includes a stop at Kusu Island. Although Kusu looked lovely, we were far too exhausted and we had to beat a hasty retreat to Singapore after completely running through whatever little supplies we had brought with us.
 
 #### MacRitchie Reservoir/TreeTop Walk
 
@@ -75,13 +75,13 @@ The same ferry ticket also includes a stop at Kusu Island, which looked lovely, 
 
 *TreeTop Walk Suspension Bridge*
 
-These two places together are ideal for a very enjoyable day trip. I suggest starting from Windsor Park to go to the TreeTop Walk and then MacRitchie Reservoir via the well-manicured Golf Link. TreeTop Walk does exactly what it says on the tin - it takes you between the tops of trees using a very unique suspension bridge originally constructed for ecologists to study the ecosystems of the tree canopies. The suspension bridge is one-way and is quite narrow. I went alone on a weekday and I loved having the entire bridge to myself.
+These two places together are ideal for a very enjoyable day trip. I suggest starting from Windsor Park, hiking to the TreeTop Walk, and then walking to the MacRitchie Reservoir via the well-manicured Golf Link. The TreeTop Walk takes you between the tops of trees using a very unique suspension bridge originally constructed for ecologists to study the ecosystems of the tree canopies. The suspension bridge is one-way and is quite narrow. I went alone on a weekday and I loved having the entire bridge to myself.
 
 ![20190105_075641293_iOS](/content/images/2019/05/20190105_075641293_iOS.jpg)
 
 *MacRitchie's Art Pavillion*
 
-MacRitchie has good running trails, boardwalks, and some much needed eating options once you finish the trail. Of note was the Leaning Tree in the middle of the boardwalk. The boardwalk was specifically redesigned in a section to accommodate this tree and this really exemplifies the pains which Singapore takes to maintain its natural beauty!
+MacRitchie has good running trails, boardwalks, and some much needed eating options once you finish the trail. Of note is the Leaning Tree in the middle of the boardwalk. The boardwalk was specifically redesigned in a section to accommodate this tree and this exemplifies how much Singapore cares about preserving its natural wonders!
 
 There are many places which I also loved but didn't make it to this list. Honorable mentions go to:
 
