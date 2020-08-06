@@ -17,7 +17,9 @@ Singapore has been an beautiful city to live in as well. The city boasts of effi
 ![](/content/images/2019/02/PHOTO-2019-02-13-17-01-09.jpg)
 *The Sea2Space building, closely related to the ARL*
 
-It's been a welcome change from attending a college stranded dozens of kilometres from the city. It has been much easier to travel impulsively. No two weekends here has been the same here either - be it either spending an evening at Clarke Quay or kayaking in Indonesia.
+It's been a welcome change from attending a college stranded dozens of kilometres from the city. It has been much easier to travel impulsively. No two weekends here have been the same either - be it either spending an evening at Clarke Quay or kayaking in Indonesia.
+
+
 ![](/content/images/2019/02/20181228_044958045_iOS.jpg)
 *View from the Chinese Garden Tower*
 ![](/content/images/2019/02/20190105_080510872_iOS.jpg)
