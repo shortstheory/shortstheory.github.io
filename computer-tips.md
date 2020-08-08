@@ -69,6 +69,10 @@ I frequently find myself needing to lookup how to do simple things with Linux an
 
     sshfs USER@IP:/$PATH $LOCAL_PATH
 
+### Copy SSH keys to server
+
+    ssh-copy-id id@server
+
 ### Screen Tips
 
     # Create a named screen
