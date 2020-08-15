@@ -1,6 +1,7 @@
 convert class from to another using reinterpret_cast<>
 mutable can be used to change the data in a const object The keyword mutable is mainly used to allow a particular data member of const object to be modified. When we declare a function as const, the this pointer passed to function becomes const. Adding mutable to a variable allows a const pointer to change members.
 
+https://stackoverflow.com/questions/16456366/why-does-the-size-of-a-class-depends-on-the-order-of-the-member-declaration-and
 
 cout << x returns cout for chaining multiple
 RBV does optimization to avoid copy
@@ -58,6 +59,76 @@ using= >>>> typedef
 do enum class {} instead of enum{} need to do name::enumtype
 enum Color: std::uint8_t {ALLA,HU,AK,BAR}
 
+makes these functions impossible to create
 basic_ios(const basic_ios& ) = delete;
 basic_ios& operator=(const basic_ios&) = delete;
 
+Widget& v //lvalue
+Widget&& v//rvalue so you can use it as such in a function:
+DataType& data() &
+{ return values; }
+// for lvalue Widgets,
+// return lvalue
+DataType data() &&
+{ return std::move(values); }
+...
+// for rvalue Widgets,
+// return rvalue
+
+
+reverse iterator rbegin() -> points to end of vector and also goes the wrong way when you do ++ 
+for (; rit!= myvector.rend(); ++rit)
+*rit = ++i;
+
+int f(int x) noexcept;
+ // no exceptions from f: C++11 style, optimizes compilation
+
+constexpr is stronger cost than const eg when 
+int s;
+const auto x = s; // okay
+constexpr auto x = s; //bad X
+constexpr functions can be calculated at compile time if its args are known then
+
+Mutex style
+// you should really be using std::atomic<int> x for single assignments, but mutex for multiple
+But, you can do mutex.lock()/mutex.unlock() or better std::lock_guard<std::mutex> g(m) where the mutex is m. Will automatically lock/unlcok when it goes out of scope
+
+template<typename T>
+* explicit - dont change me!!!
+
+## Ptrs
+unique_ptr makes src nullptr (make_unique)!!
+// custom deleters
+std::unique_ptr<
+Widget, decltype(loggingDel)> upw(new Widget, loggingDel);
+good for factory pattern
+unique_ptr<T> and unique_ptr<T[]> for arrays, though inferior
+shared_ptr == 2 ptrs - one for actual ptr and one for the ref count
+    * uses atomic under the hood
+    * once shared - cant downgrade
+    * std::shared_ptr<int> p(new int);  // or '=shared_ptr<int>(new int)' if you insist
+    * auto p = std::make_shared<int>(); // or 'std::shared_ptr<int> p' if you insist
+weak_ptr - catch dangles
+    * shared_ptr which doesnt affect reference count
+    * std::weak_ptr<Widget> wpw(spw);
+    * auto spw = wpw.lock() for testing or getting ptr
+
+## QQ's
+* wtf is RVO return value opti
+*R AII
+Rvalue
+
+PIMPL
+https://cpppatterns.com/patterns/pimpl.html
+class Widget {
+public:
+Widget();
+~Widget();
+...
+// still in header "widget.h"
+// dtor is needed—see below
+private:
+struct Impl;
+Impl *pImpl;
+};
+ 
