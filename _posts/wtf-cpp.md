@@ -113,6 +113,91 @@ weak_ptr - catch dangles
     * std::weak_ptr<Widget> wpw(spw);
     * auto spw = wpw.lock() for testing or getting ptr
 
+## COnstructor/MOves
+copy ctr - Point(const Point &p2) {x = p2.x; y = p2.y; } 
+called when  Point p2 = p1;
+rule_of_five(const rule_of_five& other) // copy constructor
+: rule_of_five(other.cstring)
+{}
+
+rule_of_five(rule_of_five&& other) noexcept // move constructor
+: cstring(std::exchange(other.cstring, nullptr))
+{}
+
+rule_of_five& operator=(const rule_of_five& other) // copy assignment
+{
+        return *this = rule_of_five(other);
+}
+
+rule_of_five& operator=(rule_of_five&& other) noexcept // move assignment
+{
+    std::swap(cstring, other.cstring);
+    return *this;
+}
+
+Dafaq is std::Exchange? exchange(x,y) doesnt update y with x, but returns the value of y
+
+a RetByValue() {
+    a obj;
+    return obj; // Might call move ctor, or no ctor.
+}
+
+void TakeByValue(a);
+
+int main() {
+    a a1;
+    a a2 = a1; // copy ctor
+    a a3 = std::move(a1); // move ctor
+
+    TakeByValue(std::movea RetByValue() {
+    a obj;
+    return obj; // Might call move ctor, or no ctor.
+} 
+* // RETURN BY VALUE MIGHT CALL MOVE CTR
+
+void TakeByValue(a);
+
+int main() {
+    a a1;
+    a a2 = a1; // copy ctor
+    a a3 = std::move(a1); // move ctor
+
+    TakeByValue(std::move(a2)); // Might call move ctor, or no ctor.
+
+    a a4 = RetByValue(); // Might call move ctor, or no ctor.
+
+    a1 = RetByValue(); // Calls move assignment, a::operator=(a&&)}(a2)); // Might call move ctor, or no ctor.
+
+    a a4 = RetByValue(); // Might call move ctor, or no ctor.
+
+    a1 = RetByValue(); // Calls move assignment, a::operator=(a&&)
+}
+
+## PIMPL
+
+need to have 
+class foo {
+public:
+    move assmt,ctr
+private:
+    class impl;
+    std::unique_ptr<impl> pimpl;
+}
+
+pointer casts dont require recompilation
+
+## lvalue,rvalue
+http://thbecker.net/articles/rvalue_references/section_01.html
+int i;
+int &r = i;//lvalue ref
+but
+const int &r = 7 //can cos it wont change
+
+this->x=5 // rvalue expression
+int &&x = 5; // rvalue ref
+Conceptually, you can tame this type-zoo by grouping the five value categories into supersets, where glvalues include lvalues and xvalues, and rvalues include xvalues and prvalues // fuckme
+
+cannot distinguish between X const& and X&&
 ## QQ's
 * wtf is RVO return value opti
 *R AII

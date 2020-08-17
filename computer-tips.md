@@ -28,6 +28,9 @@ I frequently find myself needing to lookup how to do simple things with Linux an
     # Delete metadata
     exiftool -all= /tmp/my_photo.jpg
 
+### Create a softlink
+
+    ln -s <src> <dest>
 
 ### Change Git Remote URL for Forks
 
