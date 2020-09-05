@@ -198,6 +198,10 @@ int &&x = 5; // rvalue ref
 Conceptually, you can tame this type-zoo by grouping the five value categories into supersets, where glvalues include lvalues and xvalues, and rvalues include xvalues and prvalues // fuckme
 
 cannot distinguish between X const& and X&&
+
+cool!
+http://www.cplusplus.com/reference/valarray/mask_array/
+
 ## QQ's
 * wtf is RVO return value opti
 *R AII

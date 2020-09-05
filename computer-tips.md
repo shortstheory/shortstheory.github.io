@@ -179,7 +179,18 @@ In `/boot/wpa_supplicant.conf`
 
     catkin_make -DCMAKE_BUILD_TYPE=Debug
 
-## KDE Plasma
+## Miscellaneous
+
+### Jekyll Setup
+
+    sudo apt-get install ruby-full build-essential zlib1g-dev
+    gem install jekyll bundler
+    bundle install
+    bundle exec jekyll serve --watch --trace
+
+### Get GTK Thumbnails back
+
+    sudo apt install gnome-icon-theme
 
 ### Video Thumbnail Previews in Dolphin
 
