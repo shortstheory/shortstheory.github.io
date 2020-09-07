@@ -15,7 +15,7 @@ If you're going to stay in Singapore for any longer than three days, buying an E
 
 All the below places are either free or can be done for less than S$15 per person.
 
-#### Sungei Boloh Wetlands
+### Sungei Boloh Wetlands
 
 ![20190504_054930309_iOS](/content/images/2019/05/20190504_054930309_iOS.jpg)
 
@@ -23,7 +23,7 @@ All the below places are either free or can be done for less than S$15 per perso
 
 The Wetlands is a pretty interesting place located in North Singapore. It's so close to Malaysia that you can easily catch a glimpse of Johor Bahru from the boardwalk. Unlike Singapore's other parks, the Wetlands is an unfiltered experience. On a good day, you can easily expect to see several animals ambling about the forested area. We saw five monitor lizards, a number of mudskippers, schools of needle fish, an uncountable number of birds, a cobra (!), and even a wild crocodile lying just out of sight. It makes for a great day trip if the weather cooperates and the only thing you'll need to spend here is your time.
 
-#### Southern Ridges
+### Southern Ridges
 
 ![20190127_102054487_iOS](/content/images/2019/05/20190127_102054487_iOS.jpg)
 
@@ -31,7 +31,7 @@ The Wetlands is a pretty interesting place located in North Singapore. It's so c
 
 The Southern Ridges is a trail running through five parks, from Mount Faber (near VivoCity) to Labrador Nature Reserve (near the NUS campus). It's an amazing 10km walk and I loved the views from the Henderson Waves bridge and the Canopy Walk. I really appreciated how green Singapore is from the views at Henderson Waves! As an aside, I tried making an 8km evening run from Mount Faber till Science Park, but I quickly got worn out by all the steps and elevation. Walking through the park is definitely more enjoyable.
 
-#### Marina Barrage
+### Marina Barrage
 
 ![20190323_121921670_iOS](/content/images/2019/05/20190323_121921670_iOS.jpg)
 
@@ -39,7 +39,7 @@ The Southern Ridges is a trail running through five parks, from Mount Faber (nea
 
 If you're into ships, the Marina Barrage can offer quite a spectacular view. The Barrage is located near Marina Bay Sands/Shoppes. It feels very communal at the top of the Barrage, with several families setting up picnics and children flying kites. Unlike the Southern Ridges (which is breathtakingly beautiful, but far too strenuous for a run), this can be a part of a fantastic 10km running trail, starting from the Merlion Park to the Marina South Pier MRT Station via the Marina Barrage.
 
-#### Pulau Ubin
+### Pulau Ubin
 
 ![20190302_062904418_iOS](/content/images/2019/05/20190302_062904418_iOS.jpg)
 
@@ -55,7 +55,7 @@ While Pulau Ubin has had some artificial transformation, I got the feeling that 
 
 We spent nearly six hours cycling around Pulau Ubin. Carrying food and water is recommended, though there are plenty of vending machines dotted about the island. Sunscreen is also a must.
 
-#### St. John Island
+### St. John Island
 
 ![20190512_031235950_iOS](/content/images/2019/05/20190512_031235950_iOS.jpg)
 
@@ -69,7 +69,7 @@ This is another island adventure, located towards the southern part of Singapore
 
 The same ferry ticket also includes a stop at Kusu Island. Although Kusu looked lovely, we were far too exhausted and we had to beat a hasty retreat to Singapore after completely running through whatever little supplies we had brought with us.
 
-#### MacRitchie Reservoir/TreeTop Walk
+### MacRitchie Reservoir/TreeTop Walk
 
 ![20190423_044040982_iOS](/content/images/2019/05/20190423_044040982_iOS.jpg)
 
