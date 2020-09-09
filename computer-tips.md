@@ -87,6 +87,18 @@ I frequently find myself needing to lookup how to do simple things with Linux an
     # Detach
     Ctrl+A+D
 
+### Jekyll Setup
+
+    sudo apt-get install ruby-full build-essential zlib1g-dev
+    gem install jekyll bundler
+    bundle install
+    bundle exec jekyll serve --watch --trace
+
+### Boot Repair Setup
+
+    sudo add-apt-repository ppa:yannubuntu/boot-repair
+    sudo apt-get update
+    sudo apt-get install -y boot-repair && boot-repair
 
 ## Python and Jupyter
 
@@ -181,26 +193,19 @@ In `/boot/wpa_supplicant.conf`
 
 ## Miscellaneous
 
-### Jekyll Setup
-
-    sudo apt-get install ruby-full build-essential zlib1g-dev
-    gem install jekyll bundler
-    bundle install
-    bundle exec jekyll serve --watch --trace
-
 ### Get GTK Thumbnails back
 
     sudo apt install gnome-icon-theme
 
 ### Video Thumbnail Previews in Dolphin
 
-    ffmpegthumbs mplayerthumbs kffmpegthumbnailer kio-extras
+    sudo apt install ffmpegthumbs mplayerthumbs kffmpegthumbnailer kio-extras
     # and then enable Previews by going to Dolphin Preferences
 
 
 ### Setup a Samba Share in Dolphin
 
-    sudo apt-get install kdenetwork-filesharing libsmbclient samba smbclient
+    sudo apt install kdenetwork-filesharing libsmbclient samba smbclient
     # right click to Share folder after this
 
 
