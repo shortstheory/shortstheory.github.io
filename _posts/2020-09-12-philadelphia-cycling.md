@@ -1,8 +1,8 @@
 ---
 title: Cycling in Philadelphia
 slug: philadelphia-cycling
-date_published: 2020-09-18T19:51:20.000Z
-date_updated: 2020-09-20T09:33:38.000Z
+date_published: 2020-09-12T19:51:20.000Z
+date_updated: 2020-09-12T09:33:38.000Z
 tags: Travel
 layout: post
 ---
@@ -63,7 +63,7 @@ The MLK drive runs along the Schyukill river and it starts near the Philadelphia
 ![](/content/images/2020/cycling/cycle43.jpg)
 *One of my favourite places to sit down after returning from the above Trails*
 
-Kelly Drive lies on the other side of the Schyukill. The views are more scenic, but the path is also much narrower. Kelly Drive sees a lot more pedestrians, so it isn't nearly as smooth sailing as the MLK drive.
+Kelly Drive lies on the other side of the Schyukill. The views are more scenic, but the path is also much narrower. Kelly Drive sees a lot more pedestrians, so it isn't nearly as smooth as riding on the MLK drive.
 
 Despite the MLK and Kelly Drive often being my first recommendation for new cyclists, I have become disenchanted with going up and down these trails after making several dozen trips to get to Wissahickon and Manayunk.
 
