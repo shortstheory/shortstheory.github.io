@@ -9,10 +9,10 @@ layout: post
 
 The repetitive months of quarantine have been exhausting in every single way. One of the sources of light in this unfamiliar tunnel of social isolation has been my new bicycle, on which I have already completed over 1200km in the three odd months of owning it. Philadelphia has relatively flat elevation, good bike lane coverage, and many beautiful trails making it a great city for cycling. There are also good resources on cycling in Philadelphia that may be useful to both the beginner and professional cyclist:
 
-* Information about cycling routes and other resources: https://bicyclecoalition.org/
-* How to *NOT* get hit by cars when cycling: https://bicyclesafe.com/
-* Used and refurbished cycles for sale, repairs run by friendly volunteers: https://neighborhoodbikeworks.org/
-* Discussion about cycling in Philadelphia: https://old.reddit.com/r/phillycycling/
+* [Information about cycling routes and other resources](https://bicyclecoalition.org/)
+* [How to *NOT* get hit by cars when cycling](https://bicyclesafe.com/)
+* [Repairs, used and refurbished cycles for sale, all run by friendly volunteers](https://neighborhoodbikeworks.org/)
+* [Discussion about cycling in Philadelphia](https://old.reddit.com/r/phillycycling/)
 
 These are some of my favorite spots for cycling in and around Philadelphia. All the places on the below list are easily accessible via dedicated bike lanes from University City and have no entry fees whatsoever. 
 
