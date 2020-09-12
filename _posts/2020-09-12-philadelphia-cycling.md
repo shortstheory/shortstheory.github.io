@@ -1,6 +1,6 @@
 ---
 title: Cycling in Philadelphia
-slug: singapore
+slug: philadelphia-cycling
 date_published: 2020-09-18T19:51:20.000Z
 date_updated: 2020-09-20T09:33:38.000Z
 tags: Travel
