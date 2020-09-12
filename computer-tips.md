@@ -15,18 +15,20 @@ I frequently find myself needing to lookup how to do simple things with Linux an
     wget -r -np -nd -l 0 -A.pdf http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/
 
 
-### Crop all images in-place
+### Edit all images in-place
 
     # wxh+left+top
+    # Cropping
     mogrify -crop 640x330+0+0 *.jpg
+    # Resizing
+    mogrify -resize 640x330+0+0 *.jpg
 
-
-### Remove all metadata from photo
+### Photo mtietadata
 
     # Read metadata
     exiftool /tmp/my_photo.jpg
     # Delete metadata
-    exiftool -all= /tmp/my_photo.jpg
+    exiftool -overwrite_original_in_place -all= /tmp/my_photo.jpg
 
 ### Create a softlink
 
