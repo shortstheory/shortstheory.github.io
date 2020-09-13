@@ -23,7 +23,7 @@ I frequently find myself needing to lookup how to do simple things with Linux an
     # Resizing
     mogrify -resize 640x330+0+0 *.jpg
 
-### Photo mtietadata
+### Photo Metadata
 
     # Read metadata
     exiftool /tmp/my_photo.jpg
