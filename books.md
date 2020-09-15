@@ -23,6 +23,8 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - The Great Influenza - John M. Barry
 - Siddhartha - Hermann Hesse
 - Trust Me, I'm Lying - Ryan Holiday
+- Never Say Die - Anthony Horowitz
+- Do Androids Dream of Electric Sheep? - Philip K. Dick
 
 ### 2019
 
