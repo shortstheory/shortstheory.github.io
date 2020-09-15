@@ -36,7 +36,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - A Brief History of Time - Stephen Hawking
 - **Nothing to Envy - Barbara Demick**
 - The Kite Runner - Khaled Hosseini
-- **The Hunt for the Red October - Tom Clancy**
+- The Hunt for the Red October - Tom Clancy
 - Artemis - Andy Weir
 - Dying to be Me - Anitha Moorjani
 - The Moment of Lift - Melinda Gates
@@ -45,7 +45,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - **Into the Wild - Jon Krakauer**
 - Hippie - Paulo Coelho
 - **Countdown to Zero Day - Kim Zetter**
-- **Jerusalem: Chronicles from the Holy City - Guy Delisle**
+- Jerusalem: Chronicles from the Holy City - Guy Delisle
 
 ### 2018
 
