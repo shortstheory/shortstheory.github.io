@@ -25,6 +25,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - Trust Me, I'm Lying - Ryan Holiday
 - Never Say Die - Anthony Horowitz
 - Do Androids Dream of Electric Sheep? - Philip K. Dick
+- Prisoners of Geography - Tim Marshall
 
 ### 2019
 
