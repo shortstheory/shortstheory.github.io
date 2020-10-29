@@ -35,12 +35,18 @@ To add specific your own camera, follow these steps!
 
 1) Figure out the optimized GStreamer pipeline used for your camera. You can usually find this in the Linux documentation for your camera or online developer forums. There are differences for each camera but there is a generic template for most GStreamer pipelines: `SRC ! CAPSFILTER ! ENCODER ! SINK`. 
 There might be more elements or additional capsfilters depending on each camera. In case you aren't sure what to do, feel free to drop a [GitHub issue](https://github.com/shortstheory/APStreamline/issues) to ask!
+
 2) Create a configuration file for your camera. There are examples in the `config/` folder. The element names must match those in the examples for APStreamline to set references to the GStreamer elements correctly.
+
 3) Subclass the `Camera` class and override the functions for which you want to add specific support for your camera. To give an example, the ways in which the H264 encoding bitrate is set are different for various cameras and encoder configurations. For instance, pipelines which use the `x264enc` encoder can change the bitrate by using `g_object_set`, whereas the Raspberry Pi camera GStreamer pipeline needs an IOCTL to change the bitrate.
 There is a fair bit of trial and error to discover what the capabilities of a GStreamer pipeline are. Not all pipelines support the dynamic resolution adaptation of APStreamline, so this feature must be disabled if it causes the pipeline to crash in testing.
+
 4) Create a new type for your camera and add it to the [`CameraType`]((https://github.com/shortstheory/APStreamline/blob/master/src/Camera/CameraType.h)) enum class.
+
 5) Add the enum created in the previous step to the [`CameraFactory`](https://github.com/shortstheory/APStreamline/blob/master/src/Camera/CameraFactory.h) class.
+
 6) Add a way of identifying your camera to [`RTSPStreamServer`](https://github.com/shortstheory/APStreamline/blob/8ba5b548321f46e39c8bc51c4e2e46f6847e5272/src/RTSPStreamServer/RTSPStreamServer.cpp#L77). A good way of adding a way to identify your camera is by using the Card type property from `v4l2-ctl --list-formats-ext --all --device=/dev/videoX`. In case your camera is not specifically detected, the fallback is to encode the MJPG stream from your camera using the H264 software encoder, `x264enc`.
+
 7) File a Pull Request to get your camera added to the master branch!
 
 ## To Do
