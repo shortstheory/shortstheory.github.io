@@ -9,19 +9,19 @@ layout: post
 The [APStreamline project](https://github.com/shortstheory/APStreamline/) aims to make streaming live video from companion computers as painless as possible. It was first released as the product of my ArduPilot [GSoC project](https://discuss.ardupilot.org/t/introducing-apstreamline/31723) back in 2018. Community feedback for APStreamline was very encouraging and that led me to continue development in 2019. However, there was an issue which had been nagging at me from the outset of its v1 release - adding support for new cameras was tricky due to the confusing coupling of some classes in the codebase. In fact, the most requested feature I've received for APStreamline has been to make it easier to add support for different types of cameras.
 
 ![](/content/images/2020/IMG_0674.JPG)
-*APStreamline has grown to support a wide variety of use cases for live video streaming*
+*APStreamline has grown to support a wide variety of use cases for network adaptive video streaming*
 
-The Linux V4L2 driver helps in making it easier to add support for different cameras. Several cameras have a standard interface for capturing video using GStreamer elements. So why does support for each camera need to be baked into the code? The reason is that some cameras use different GStreamer elements, some only support non-standard resolutions, and some even have onboard ASICs for H.264 compression. For example, in the case of the NVIDIA Jetson line of single-board computers, there are GStreamer pipelines built specifically for accessing the Jetson's ISP and hardware encoder for high quality video encoding. To make the most of each camera and companion computer, it is well worth the effort to add specific support for popular types of cameras.
+The Linux V4L2 driver helps in making it easier to add support for different cameras. Several cameras have a standard interface for capturing video using GStreamer elements. So why does support for each camera need to be baked into the code? The reason is that some cameras use different GStreamer elements, some only support non-standard resolutions, and some even have onboard ASICs for H.264 compression. For example, in the NVIDIA Jetson line of single-board computers have GStreamer pipelines built specifically for accessing the Jetson's ISP and hardware encoder for high quality video encoding. To make the most of each camera and companion computer, it is well worth the effort to add specific support for popular camera models.
 
 All this inspired a rewrite of the code, and I am proud to announce that with the release of APStreamline v2, it is now much simpler to add support for your own camera! Let's first take a look at what devices are already supported:
 
 ## Cameras Supported
 
-* Logitech C920
+* Logitech C920 webcam
 * Raspberry Pi Camera (Raspberry Pi only)
 * e-Con AR0521 (requires the Developer Preview version of NVIDIA Jetpack 4.4)
 * ZED2 Depth camera (V4L2 mode)
-* Any camera which support MJPG encoding (fallback when specific support is not detected. The MJPG stream from the camera is then encoded the H264 using a software encoder.)
+* Any camera which support MJPG encoding (fallback when specific support is not detected. The MJPG stream from the camera is then encoded to H264 using a software encoder.)
 
 ## Devices Tested
 
