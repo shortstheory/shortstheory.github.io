@@ -27,6 +27,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - Do Androids Dream of Electric Sheep? - Philip K. Dick
 - **Prisoners of Geography - Tim Marshall**
 - Nightshade - Anthony Horowitz
+- Cat's Cradle - Kurt Vonnegut
 
 ### 2019
 

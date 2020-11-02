@@ -1,5 +1,5 @@
 ---
-title: APStreamline v2!
+title: Announcing APStreamline v2!
 slug: apstreamline-v2
 date_published: 2020-10-29T10:57:20.000Z
 tags: Ardupilot, GSoC, Programming
