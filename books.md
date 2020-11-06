@@ -28,6 +28,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - **Prisoners of Geography - Tim Marshall**
 - Nightshade - Anthony Horowitz
 - Cat's Cradle - Kurt Vonnegut
+- The Subtle Art of Not Giving a F*ck - Mark Manson
 
 ### 2019
 
