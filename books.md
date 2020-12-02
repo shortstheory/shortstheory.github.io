@@ -29,6 +29,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - Nightshade - Anthony Horowitz
 - Cat's Cradle - Kurt Vonnegut
 - The Subtle Art of Not Giving a F*ck - Mark Manson
+- Billion Dollar Whale - Tom Wright
 
 ### 2019
 
