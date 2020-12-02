@@ -14,6 +14,9 @@ I frequently find myself needing to lookup how to do simple things with Linux an
 
     wget -r -np -nd -l 0 -A.pdf http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/
 
+### Adjust External Monitor Brightness
+
+    xrandr --output HDMI-1 --brightness 0.5
 
 ### Edit all images in-place
 
