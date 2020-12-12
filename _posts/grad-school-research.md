@@ -1,0 +1,15 @@
+---
+title: Research During Masters
+slug: research-experience
+date_published: 2020-05-12T12:52:57.000Z
+tags: College
+layout: post
+---
+
+The visions I had for grad school have not quite been realized during my time at UPenn. The Statement of Purpose I used for my Masters' admissions was filled with the experiences I had when working on projects on during undergrad. I emphasized, if admitted, my goal was to advance the state of art in robotics at UPenn's labs. To be clear, the feelings were genuine and based on whatever experiences I had in undergrad, I was ready to take a lighter course during my masters if it would mean more time at research. The thesis option at Penn was an attractive option - granting one with the chance to do original research for two full semesters with a 20% reduction in course load to boot!
+
+However, as I mentioned in my previous posts, this wasn't really to be. I ended up taking time-consuming courses in my first and second semester which left little time to do research. That's not to say it was for a lack of trying - for I did reach out two a couple of labs located at Pennovation Works (a business incubator and massive robotics research facility under one roof) which I was interested in. I had some good introductory conversations with the passionate PhDs and postdocs at these labs, and this was followed by sitting on a few lab meetings. 
+
+One of the more notable discussions I had was when a postdoc at one of these labs asked me how I would solve one of the open research problems she was working on. Perplexed by the question, I said that I wouldn't be able to answer without reading some papers and doing some background reading, After all I had only just gotten the idea to pursue research and it was unlikely I would even know where to begin till I got warmed up with the problem. That's where she told me I was doing it wrong. She repeated the question and asked me to try harder, saying that I should try to pursue solving the problem with whatever experiences I had in my previous projects. It was a moment of epiphany for me, because till then I had always thought research would require substantial background and theory before building off someone else's work. Just thinking that solving a difficult problem with whatever I knew was a valid research direction in itself was a new way of thinking for me. It reminded me of my first meeting of Prof. Mandar at NUS, Singapore, where his first question was how I would pursue solving the problem of disruption tolerant communication using underwater networks. I left that meeting with the lab's postdoc feeling a lot more certain I had come to the right place. Unfortunately, a couple of weeks after that meeting, COVID-19 caused the college to shutdown for good. With the burden of courses and daily struggle with new the lifestyle due to COVID, research was no longer at the to of my priority list and it looked like it would have to wait indefinitely.
+
+It 

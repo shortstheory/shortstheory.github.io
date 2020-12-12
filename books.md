@@ -30,6 +30,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - Cat's Cradle - Kurt Vonnegut
 - The Subtle Art of Not Giving a F*ck - Mark Manson
 - Billion Dollar Whale - Tom Wright
+- Digital Minimalism - Cal Newport
 
 ### 2019
 
