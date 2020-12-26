@@ -5,6 +5,9 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "Monokai"
+		"workbench.colorTheme": "Monokai",
+		"cSpell.words": [
+			"performant"
+		]
 	}
 }
