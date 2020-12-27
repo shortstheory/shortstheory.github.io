@@ -15,7 +15,7 @@ The Linux V4L2 driver helps in making it easier to add support for different cam
 
 All this inspired a rewrite of the code, and I am proud to announce that with the release of APStreamline v2, it is now much simpler to add support for your own camera! Let's first take a look at what devices are already supported:
 
-## Cameras Supported
+### Cameras Supported
 
 * Logitech C920 webcam
 * Raspberry Pi Camera (Raspberry Pi only)
@@ -23,13 +23,13 @@ All this inspired a rewrite of the code, and I am proud to announce that with th
 * ZED2 Depth camera (V4L2 mode)
 * Any camera which support MJPG encoding (fallback when specific support is not detected. The MJPG stream from the camera is then encoded to H264 using a software encoder.)
 
-## Devices Tested
+### Devices Tested
 
 * Raspberry Pi Zero W/2/3B
 * NVIDIA Jetson Xavier NX
 * x86 computer
 
-## Adding Your Own Camera
+### Adding Your Own Camera
 
 To add specific your own camera, follow these steps!
 
@@ -49,7 +49,7 @@ There is a fair bit of trial and error to discover what the capabilities of a GS
 
 7) File a Pull Request to get your camera added to the master branch!
 
-## To Do
+### To Do
 APStreamline could use your help! Some of the tasks which I want to complete are:
 
 - Add support for the `tegra-video` driver back into the project. Currently this is only supported in [APStreamline v1.0](https://github.com/shortstheory/adaptive-streaming/releases/tag/v1.0), available from the Releases section of the repository
