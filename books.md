@@ -68,3 +68,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - **Spelunky - Derek Yu**
 - **An Astronaut's Guide to Life on Earth - Chris Hadfield**
 - Deception Point - Dan Brown
+
+### 2021
+
+- Norwegian Wood - Haruki Murakami
