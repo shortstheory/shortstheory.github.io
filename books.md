@@ -12,6 +12,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 
 - Norwegian Wood - Haruki Murakami
 - **Evicted - Matthew Desmond**
+- **Moonflower Murders - Anthony Horowitz**
 
 ### 2020
 
