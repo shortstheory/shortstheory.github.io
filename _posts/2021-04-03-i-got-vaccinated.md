@@ -9,7 +9,7 @@ layout: post
 I am happy to announce that as of 905am, April 3 2021, I am part of a rapidly increasing COVID19 statistic - the number of people vaccinated from the disease!
 
 ![](/content/images/2021/IMG_6706.jpg)
-*The time in top-right corner of the vaccine document is the time at which I could safely leave after observing a 15 minute wait period for side effects*
+*The time in top-right corner of the vaccine document is the time at which I could safely leave after observing a 15 minute waiting period for side effects*
 
 I was able to get the Janssen/J&J single dose vaccine a bit earlier than expected by getting a callback from Walmart's leftover vaccine waitlist and I am absolutely delighted to receive this particular vaccine. On the drive back from Walmart, I had Vampire Weekend's [Harmony Hall](https://www.youtube.com/watch?v=IlkTVMMkCP4) (a song which I had played on repeat for much of 2020) playing on the car's stereo and I felt a surge of positivity that I had been missing for a long time.
 
