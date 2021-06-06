@@ -15,6 +15,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - **Moonflower Murders - Anthony Horowitz**
 - **Steve Jobs - Walter Isaacson**
 - SEED - Matthew G. Dick
+- Ready Player One - Ernest Cline
 
 ### 2020
 
