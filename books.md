@@ -16,6 +16,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - **Steve Jobs - Walter Isaacson**
 - SEED - Matthew G. Dick
 - Ready Player One - Ernest Cline
+- **Kitchen Confidential - Anthony Bourdain**
 
 ### 2020
 
