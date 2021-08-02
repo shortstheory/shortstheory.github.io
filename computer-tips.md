@@ -105,6 +105,19 @@ I frequently find myself needing to lookup how to do simple things with Linux an
     sudo apt-get update
     sudo apt-get install -y boot-repair && boot-repair
 
+### Fix annoying K380 function key defaults
+
+    # Download and build configuration script from https://github.com/jergusg/k380-function-keys-conf
+    # Then add the below to the root's crontab: * * * * * /home/nic/k380hack.sh
+    # k380hack.sh
+    /home/nic/software/k380-function-keys-conf/k380_conf -d /dev/hidraw0 -f on
+    /home/nic/software/k380-function-keys-conf/k380_conf -d /dev/hidraw1 -f on
+    /home/nic/software/k380-function-keys-conf/k380_conf -d /dev/hidraw2 -f on
+    /home/nic/software/k380-function-keys-conf/k380_conf -d /dev/hidraw3 -f on
+    /home/nic/software/k380-function-keys-conf/k380_conf -d /dev/hidraw4 -f on
+    /home/nic/software/k380-function-keys-conf/k380_conf -d /dev/hidraw5 -f on
+    # Clean? No. Effective? Yes!
+
 ## Python and Jupyter
 
 ### Show all Pandas columns
