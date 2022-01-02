@@ -17,6 +17,9 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - SEED - Matthew G. Dick
 - Ready Player One - Ernest Cline
 - **Kitchen Confidential - Anthony Bourdain**
+- Project Hail Mary - Andy Weir
+- **I, Robot - Isaac Asimov**
+- **Persepolis - Marjane Satrapi**
 
 ### 2020
 
