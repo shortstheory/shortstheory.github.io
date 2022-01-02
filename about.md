@@ -6,7 +6,7 @@ date_updated: 2019-08-22T15:22:32.000Z
 layout: page
 ---
 
-![](/static/pp.jpg)
+![](/static/pp2.jpeg)
 
 # Hi!
 
