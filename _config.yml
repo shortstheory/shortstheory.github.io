@@ -6,6 +6,7 @@ url:                 https://arnavdhamija.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+future:              true
 
 # About/contact
 author:
