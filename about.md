@@ -25,7 +25,7 @@ if (randomNum < 30)
     pic = "pp4.jpeg";
 }
 console.log(pic);
-document.getElementById("pp").src = pic;
+document.getElementById("pp").src = "/static/"+pic;
 </script>
 
 # Hi!
