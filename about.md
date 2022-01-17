@@ -6,7 +6,27 @@ date_updated: 2019-08-22T15:22:32.000Z
 layout: page
 ---
 
-![](/static/pp2.jpeg)
+<!-- ![](/static/pp2.jpeg) -->
+<p><img src="/static/pp2.jpeg" id="pp" alt="" /></p>
+<script type="text/javascript">
+var randomNum = Math.floor(Math.random() * 100);
+var pic = "";
+if (randomNum < 30)
+{
+    pic = "pp1.jpeg";
+} else if (randomNum < 60)
+{
+    pic = "pp2.jpeg";
+} else if (randomNum < 90)
+{
+    pic = "pp3.jpeg";
+} else
+{
+    pic = "pp4.jpeg";
+}
+console.log(pic);
+document.getElementById("pp").src = pic;
+</script>
 
 # Hi!
 
