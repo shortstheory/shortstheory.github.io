@@ -8,6 +8,12 @@ layout: page
 
 This is a continuously updated list of books I've read since 2018. Books which have stood out to me are in bold:
 
+### 2022
+
+- The Financial Expert - R. K. Narayan
+- Foundation - Isaac Asimov
+- The Metamorphosis - Franz Kafka
+
 ### 2021
 
 - Norwegian Wood - Haruki Murakami
