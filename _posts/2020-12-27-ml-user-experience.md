@@ -6,6 +6,8 @@ tags: Tech
 layout: post
 ---
 
+*Disclaimer: Although I currently work at NVIDIA, I wrote this article before I joined in July 2021. All opinions in this post are my own and not associated with my company.*
+
 Over the past few months or so, I've had to work on getting pretrained deep learning (DL) models downloaded off GitHub to run for some robotics projects. In doing so, I've had to work with getting inference to run on an NVIDIA GPU and in this post, I want to highlight my experiences with working with ML modelling libraries and NVIDIA's own tools.
 
 ### What Works Well
