@@ -13,6 +13,8 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - The Financial Expert - R. K. Narayan
 - Foundation - Isaac Asimov
 - The Metamorphosis - Franz Kafka
+- The Knowledge - Lewis Dartnell
+- The Word is Murder - Anthony Horowitz
 
 ### 2021
 
@@ -23,6 +25,8 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - SEED - Matthew G. Dick
 - Ready Player One - Ernest Cline
 - **Kitchen Confidential - Anthony Bourdain**
+- Secret Weapon - Anthony Horowitz
+- Deny All Charges - Eoin Colfer
 - Project Hail Mary - Andy Weir
 - **I, Robot - Isaac Asimov**
 - **Persepolis - Marjane Satrapi**
