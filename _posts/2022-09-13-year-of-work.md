@@ -26,9 +26,9 @@ After spending a few hours in a climbing gym, it's easy to see why indoor rock c
 
 The graded progression in problem difficulty in climbing gives me a lot of motivation to keep at it. I love that it's also a good workout while barely feeling like one. I was also pleasantly surprised to find that the indoor rock climbing community is very inclusive. I've found that discussing the beta is one of the best ways to strike up conversation and make friends with complete strangers.
 
-### + More extroverted
+### + More extroverted 🤗 
 
-I feel like 2020 really did a number on my social skills. When the world was slowly opening back up again, I felt like I was starting afresh. I was finding my way through learning how to interact with people outside of my COVID buddies group, and suffice to say, there were some cringey moments along the way. Anything more than a cursory 'thank you' at the grocery store felt foreign to me. Yet, I felt excited to speak to people in a way I never had before. Social events which I would've avoided in the past were now unmissable for me. Personally, I think this is the biggest change I've seen in myself since I came to the US in 2019. It definitely helps to have something interesting to talk about when meeting someone new, and I feel like accumulating several experiences and stories over the years has helped me a lot in this regard.
+I feel like 2020 really did a number on my social skills. When the world was slowly opening back up again, I felt like I was starting afresh. I was finding my way through learning how to interact with people outside of my COVID buddies group, and suffice to say, there were some cringey moments along the way. Anything more than a cursory 'thank you' at the grocery store felt foreign to me. With inexperience comes opportunity and I felt excited to speak to people in a way I never had before. Social events which I would've avoided in the past were now unmissable for me. Personally, I think this is the biggest change I've seen in myself since I came to the US in 2019. It definitely helps to have something interesting to talk about when meeting someone new, and I feel like accumulating several experiences and stories over the years has helped me a lot in this regard.
 
 ### + Settling 🏠
 
@@ -42,6 +42,6 @@ I didn't realize it at the time, but my first year in the Bay Area was a process
 
 One thing I've recently learned from personal experience is that I could enjoy a 'high-maintenance' lifestyle on the cheap by trying to become more up to date on chores. It comes with trying to be more settled and aiming for a higher quality of life. Yet, living in the US means that chores are a time-consuming endeavor. I've tried to rotate through a number of maintenance related tasks throughout the week, but it feels never-ending! The worst of it is unexpected maintenance in the middle of the week throwing my schedule off. This happens more often than not with my transportation, e.g., bumper damage on my car or a puncture on one my bikes.
 
-### - COVID Rebound
+### - COVID Rebound 🎢
 
 It took me a year to realize it, but my rebound to life after COVID was not sustainable. I tried to maximize the time I was out of the house on weekends and weekdays after the office opened. It was fun initially, but the routine of spending 12 hours a day on the move caught up with me, which is why I then realized I need to improve the baseline quality of life by settling in a bit more.
