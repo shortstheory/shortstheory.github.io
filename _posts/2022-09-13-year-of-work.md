@@ -10,7 +10,7 @@ It's funny how something as natural as the progression of time still catches me 
 
 ### + 💰💰💰
 
-Yes, the cost of rent in the Bay Area is high. But tech jobs in the Bay Area pay *really* well, given my living expenses. More than anything, I feel like I've finally graduated from the student life when I don't flinch at paying for a $15 entree. In the US, money gives you freedom and I feel like I've had more freedom living here than I've ever had before. 
+Yes, the cost of living in the Bay Area is high. But tech jobs in the Bay Area pay *really* well, given my living expenses. More than anything, I feel like I've finally graduated from the student life when I don't flinch at paying for a $15 entree. In the US, money gives you freedom and I feel like I've had more freedom living here than I've ever had before. 
 
 ### + Learned to contribute meaningfully to a big company 🏢
 
@@ -32,7 +32,7 @@ I feel like 2020 really did a number on my social skills. When the world was slo
 
 ### + Settling 🏠
 
-I didn't realize it at the time, but my first year in the Bay Area was a process in getting more *settled*. I used to hate the term, because I used to conflate settling with slowing down. I found staying at home difficult in the beginning - for it was the last thing I wanted to do after a year of online masters and a WFH job. I've come to realize that settling is feeling more secure in your lifestyle. 
+I didn't realize it at the time, but my first year in the Bay Area was a process in getting more *settled*. I used to hate the term, because I used to conflate settling with slowing down. I found staying at home difficult in the beginning - for it was the last thing I wanted to do after a year of online masters and a WFH job. But settling in is more than just staying at home - I've come to realize that settling is feeling more secure in your lifestyle. 
 
  It's about being more sure about where you want to be in this stage of life. Getting settled is a process which I never paid much attention to in Hyderabad, Singapore, or Philadelphia, because I always had it at the back of my mind that I would be moving eventually. It's different now as the habits I form now are going to stick for much longer. To this end, I've been working on scheduling appointments, keeping track of chores, and maintaining a personal kanban board for things I want to accomplish in two week intervals. One of the most effective tricks that's worked for me is to resolve the daily sources of friction I used to put up with at the moment I identify it.
  
