@@ -15,6 +15,10 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - The Metamorphosis - Franz Kafka
 - The Knowledge - Lewis Dartnell
 - The Word is Murder - Anthony Horowitz
+- Models - Mark Manson
+- The Trial - Franz Kafka
+- What I Talk About When I Talk About Running - Haruki Murakami
+- A Wild Sheep Chase - Haruki Murakami
 
 ### 2021
 
