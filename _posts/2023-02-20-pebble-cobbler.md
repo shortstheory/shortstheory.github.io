@@ -1,7 +1,7 @@
 ---
 title: Pebble Cobbler 2023 Race Report
 slug: pebble-cobbler
-date_published: 2022-09-13
+date_published: 2022-02-20
 tags: Biking
 layout: post
 ---
