@@ -8,9 +8,13 @@ layout: page
 
 This is a continuously updated list of books I've read since 2018. Books which have stood out to me are in bold:
 
+### 2023
+
+- India and Asian Geopolitics - Shivshankar Menon
+
 ### 2022
 
-- The Financial Expert - R. K. Narayan
+- **The Financial Expert - R. K. Narayan**
 - Foundation - Isaac Asimov
 - The Metamorphosis - Franz Kafka
 - The Knowledge - Lewis Dartnell
@@ -19,6 +23,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - The Trial - Franz Kafka
 - What I Talk About When I Talk About Running - Haruki Murakami
 - A Wild Sheep Chase - Haruki Murakami
+- **Crying in H Mart - Michelle Zauner**
 
 ### 2021
 
