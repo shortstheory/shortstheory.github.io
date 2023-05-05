@@ -11,6 +11,10 @@ This is a continuously updated list of books I've read since 2018. Books which h
 ### 2023
 
 - India and Asian Geopolitics - Shivshankar Menon
+- Building Wealth One House at a Time - John W. Schaub
+- The Little Book of Common Sense Investing - John C Bogle
+- Ikigai - Francesc Miralles and Hector Garcia
+- **The Shining - Stephen King**
 
 ### 2022
 
