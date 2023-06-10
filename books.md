@@ -15,6 +15,7 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - The Little Book of Common Sense Investing - John C Bogle
 - Ikigai - Francesc Miralles and Hector Garcia
 - **The Shining - Stephen King**
+- **The Body Keeps the Score - Bessel van der Kolk**
 
 ### 2022
 
