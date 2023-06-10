@@ -12,21 +12,21 @@ Both Hertz and First Financial Asset Management have been harassing me for damag
 
 * At 956am on March 7 2021, I rented a Chevrolet Traverse (license plate NFRT51) from the Hertz rental at 2951 Market St, Philadelphia, PA 19104. When I went to pick up the car at the rental agency, the employee present at the counter made me sign a document that the car had no damage before handing me the keys. Only when I went downstairs to pick up my vehicle, I noticed that the car had what looked like paint scratches on its front bumper. I was under the impression that this damage was already accounted for as Hertz made me fill out the paperwork before taking the vehicle. Nevertheless, I took photos of all sides of the car before taking the car out of the parking lot. I noted the odometer reading at 17708 miles when taking the vehicle.
 
-![Alt text](/content/images/2023/hertz/IMG_6283.jpg)
+![Alt text](https://arnavdhamija.com/content/images/2023/hertz/IMG_6283.jpg)
 
-![Alt text](/content/images/2023/hertz/IMG_6284.jpg) 
+![Alt text](https://arnavdhamija.com/content/images/2023/hertz/IMG_6284.jpg) 
 
-![Alt text](/content/images/2023/hertz/IMG_6287.jpg)
+![Alt text](https://arnavdhamija.com/content/images/2023/hertz/IMG_6287.jpg)
 
-![Alt text](/content/images/2023/hertz/IMG_6290.jpg)
+![Alt text](https://arnavdhamija.com/content/images/2023/hertz/IMG_6290.jpg)
 
 *My pre-rental inspection pictures. The existing damage to the front bumper cover is clearly visible.*
 
 * I returned the car at 959am on March 8 2021. When I returned the keys, the Hertz representative at the counter did not come downstairs to inspect the vehicle in my presence. The odometer reading when I returned the vehicle was 17942 miles.
 
-* On 15 April 2021, I received an email from someone named Chad Miner at Hertz who claims damages of USD 1129.83 for damage concerning the front bumper. The email contained a [document](/content/images/2023/hertz/documentation/013981537406_PhotoEstimate.pdf) where the damage was reported on 18 March 2021 with the car's odometer at 18290 miles. The report also contained a [pre-rental inspection report](/content/images/2023/hertz/documentation/station_report_summary_v2traverse.pdf) dated 28 October 2020 with the car's odometer at 11821 miles. In this pre-rental inspection report, the car's front bumper is unblemished.
+* On 15 April 2021, I received an email from someone named Chad Miner at Hertz who claims damages of USD 1129.83 for damage concerning the front bumper. The email contained a [document](https://arnavdhamija.com/content/images/2023/hertz/documentation/013981537406_PhotoEstimate.pdf) where the damage was reported on 18 March 2021 with the car's odometer at 18290 miles. The report also contained a [pre-rental inspection report](https://arnavdhamija.com/content/images/2023/hertz/documentation/station_report_summary_v2traverse.pdf) dated 28 October 2020 with the car's odometer at 11821 miles. In this pre-rental inspection report, the car's front bumper is unblemished.
 
-![Alt text](/content/images/2023/hertz/hertz-old-pics.png)
+![Alt text](https://arnavdhamija.com/content/images/2023/hertz/hertz-old-pics.png)
 
 *Note how Hertz's 'evidence' for showing the car was in good condition was taken months before we rented it.*
 
@@ -52,7 +52,7 @@ My complaints with Hertz and FFAM in this whole situation are as follows:
 
 * FFAM has harassed me several times on the phone for over two years by even calling me when I was at work. I find this unacceptable.
 
-* FFAM [did not even acknowledge my email](/content/images/2023/hertz/documentation/ffam-ignored.pdf) dated 11 Jan 2022 when I attempted to explain the situation again. The CFPB even states that the debt collector must pause collecting the debt until the debt collector has responded to my dispute. [1]
+* FFAM [did not even acknowledge my email](https://arnavdhamija.com/content/images/2023/hertz/documentation/ffam-ignored.pdf) dated 11 Jan 2022 when I attempted to explain the situation again. The CFPB even states that the debt collector must pause collecting the debt until the debt collector has responded to my dispute. [1]
 
 * My call with Mr. Jones on 19 May was very unpleasant. I only paid the amount under the threat of legal action and possible garnishment of wages. I have since learned that it is in fact illegal for debt collectors to garnish wages [2] so the threat was in fact empty. This has caused me a great deal of distress and I am very disappointed in the way FFAM has forced my hand to pay for damages which I did not cause.
 
@@ -65,8 +65,8 @@ My complaints with Hertz and FFAM in this whole situation are as follows:
 
 ### Relevant Documents
 
-1. [Hertz damage report](/content/images/2023/hertz/documentation/013981537406_PhotoEstimate.pdf)
+1. [Hertz damage report](https://arnavdhamija.com/content/images/2023/hertz/documentation/013981537406_PhotoEstimate.pdf)
 
-2. [Hertz Pre-rental inspection report](/content/images/2023/hertz/documentation/station_report_summary_v2traverse.pdf)
+2. [Hertz Pre-rental inspection report](https://arnavdhamija.com/content/images/2023/hertz/documentation/station_report_summary_v2traverse.pdf)
 
-3. [Email Unacknowledged by FFAM](/content/images/2023/hertz/documentation/ffam-ignored.pdf)
+3. [Email Unacknowledged by FFAM](https://arnavdhamija.com/content/images/2023/hertz/documentation/ffam-ignored.pdf)
