@@ -56,15 +56,17 @@ My complaints with Hertz and FFAM in this whole situation are as follows:
 
 * My call with Mr. Jones on 19 May was very unpleasant. I only paid the amount under the threat of legal action and possible garnishment of wages. I have since learned that it is in fact illegal for debt collectors to garnish wages [2] so the threat was in fact empty. This has caused me a great deal of distress and I am very disappointed in the way FFAM has forced my hand to pay for damages which I did not cause.
 
-[1] https://www.consumerfinance.gov/ask-cfpb/what-information-does-a-debt-collector-have-to-give-me-about-the-debt-en-331/
+### References
 
-[2] https://oag.ca.gov/consumers/general/debt-collectors
+1. https://www.consumerfinance.gov/ask-cfpb/what-information-does-a-debt-collector-have-to-give-me-about-the-debt-en-331/
+
+2. https://oag.ca.gov/consumers/general/debt-collectors
 
 
-Relevant Documents
+### Relevant Documents
 
-[1] [Hertz damage report](/content/images/2023/hertz/documentation/013981537406_PhotoEstimate.pdf)
+1. [Hertz damage report](/content/images/2023/hertz/documentation/013981537406_PhotoEstimate.pdf)
 
-[2] [Hertz Pre-rental inspection report](/content/images/2023/hertz/documentation/station_report_summary_v2traverse.pdf)
+2. [Hertz Pre-rental inspection report](/content/images/2023/hertz/documentation/station_report_summary_v2traverse.pdf)
 
-[3] [Email Unacknowledged by FFAM](/content/images/2023/hertz/documentation/ffam-ignored.pdf)
+3. [Email Unacknowledged by FFAM](/content/images/2023/hertz/documentation/ffam-ignored.pdf)
