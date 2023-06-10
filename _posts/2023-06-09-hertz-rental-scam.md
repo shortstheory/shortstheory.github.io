@@ -58,9 +58,9 @@ My complaints with Hertz and FFAM in this whole situation are as follows:
 
 ### References
 
-1. https://www.consumerfinance.gov/ask-cfpb/what-information-does-a-debt-collector-have-to-give-me-about-the-debt-en-331/
+1. [https://www.consumerfinance.gov/ask-cfpb/what-information-does-a-debt-collector-have-to-give-me-about-the-debt-en-331/](https://www.consumerfinance.gov/ask-cfpb/what-information-does-a-debt-collector-have-to-give-me-about-the-debt-en-331/)
 
-2. https://oag.ca.gov/consumers/general/debt-collectors
+2. [https://oag.ca.gov/consumers/general/debt-collectors](https://oag.ca.gov/consumers/general/debt-collectors)
 
 
 ### Relevant Documents
