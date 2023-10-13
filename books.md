@@ -16,6 +16,11 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - Ikigai - Francesc Miralles and Hector Garcia
 - **The Shining - Stephen King**
 - **The Body Keeps the Score - Bessel van der Kolk**
+- **A Wild Sheep Chase - Haruki Murakami**
+- The Silent Patient - Alex Michaelides
+- **Salt Sugar Fat - Michael Moss**
+
+
 
 ### 2022
 
