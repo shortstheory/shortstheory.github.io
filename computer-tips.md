@@ -98,6 +98,8 @@ I frequently find myself needing to lookup how to do simple things with Linux an
     gem install jekyll bundler
     bundle install
     bundle exec jekyll serve --watch --trace
+    bundler exec jekyll build && bash -c 'cd _site && python -m http.server 3000' # workaround for Ruby3
+
 
 ### Boot Repair Setup
 
