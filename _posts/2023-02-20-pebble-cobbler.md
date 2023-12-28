@@ -18,7 +18,7 @@ My only goal for this race. Despite almost bonking midway, I\'m proud of myself 
 
 ### Gear
 
-I am very happy with the choices I made with what I brought with me on this ride. I took my Giant Revolt 2 and swapped out the stock pedals for Race Face Chester MTB pedals with Adidas 5.10 Freerider MTB shoes to go along with it. I also invested in padded cycling shorts and a jersey for this race. Even the choice of bottle cages turned out to be crucial, for many cyclists lost their water bottles after flying over bumps. I am also glad that my tires survived all the abuse without a puncture. Every bit of cycling gear I got with me made the journey a little bit easier and it all helped getting me across the finish line.
+I\'m very happy with the choices I made for what I brought with me on this ride. I took my Giant Revolt 2 and swapped out the stock pedals for Race Face Chester MTB pedals with Adidas 5.10 Freerider MTB shoes to go along with it. I also invested in padded cycling shorts and a jersey for this race. Even the choice of bottle cages turned out to be crucial, for many cyclists lost their water bottles after flying over bumps. I\'m also glad that my tires survived all the abuse without a puncture. Every bit of cycling gear I got with me made the journey a little bit easier and it all helped getting me across the finish line.
 
 ### Logistics
 
@@ -44,7 +44,7 @@ My bike is equipped with a stock 2x9 Shimano Sora transmission with a 32/48 cran
 
 ## The Race!!
 
-Even at 85km and 5300 feet of elevation gain, the Pebble Cobbler is the little brother of the Rock Cobbler, a truely daunting course with 122km of mileage and 8100ft of elevation gain. Both the Pebble Cobbler and the Rock Cobbler share the first 75km of madness, after which the Pebble Cobbler diverges to a bike trail back to the start whereas the Rock Cobbler has another 50km in store. This year, there were 750 cyclists taking part in the Rock Cobbler and 250 taking part in the shorter format. I was under the impression that the competition in the Pebble Cobbler was probably not quite as high as that found in the Rock Cobbler which would only draw the most hardcore of riders.
+Even at 85km and 1600+m of elevation gain, the Pebble Cobbler is the little brother of the Rock Cobbler, a truely daunting course with 122km of mileage and 2800+m of elevation gain. Both the Pebble Cobbler and the Rock Cobbler share the first 75km of madness, after which the Pebble Cobbler diverges to a bike trail back to the start whereas the Rock Cobbler has another 50km in store. This year, there were 750 cyclists taking part in the Rock Cobbler and 250 taking part in the shorter format. I was under the impression that the competition in the Pebble Cobbler was probably not quite as high as that found in the Rock Cobbler which would only draw the most hardcore of riders.
 
 ### Sector 1 (Start to 25km)
 
