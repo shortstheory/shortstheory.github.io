@@ -9,7 +9,7 @@ layout: post
 
 Pulling out my camera, adjusting the exposure, quietly waiting for the perfect shot, I present to you, my viewers, my new photography album. The old collection can be found [here.](/2011/10/19/photography-volume-1/)
 
-Note: not all my photos here are "new, new" photos. Some of them are exceptional shots I took before publishing my last post, but I didn\'t want to post two pics of the same thing.
+Note: not all my photos here are \"new, new\" photos. Some of them are exceptional shots I took before publishing my last post, but I didn\'t want to post two pics of the same thing.
 
 Moving on....(click to enlarge)
 
@@ -43,7 +43,7 @@ Cute little birdie. That sounds really stupid. Anyway, I like the perching posit
 
 ![IMG_6149](/content/images/2018/08/IMG_6149.JPG)
 
-Wow, this picture was an absolute stunner for me. I heard the cat screeching in pain before I found it (probably "cat"fighting). The way its body is silhouetted and the light gleaming off the feline\'s eyes make it an amazing and thoughtful picture.
+Wow, this picture was an absolute stunner for me. I heard the cat screeching in pain before I found it (probably \"cat\"fighting). The way its body is silhouetted and the light gleaming off the feline\'s eyes make it an amazing and thoughtful picture.
 
 ![IMG_6164](/content/images/2018/08/IMG_6164.JPG)
 

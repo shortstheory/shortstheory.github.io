@@ -9,7 +9,7 @@ layout: post
 
 It\'s been almost two months since I\'ve landed in Singapore. 
 
-I\'m here for completing my undergraduate thesis on "Disruption Tolerant Networks for Underwater Applications" at NUS. I\'m working under [Prof. Mandar Chitre](http://www.chitre.net/) at the Acoustics Research Laboratory ([ARL](http://arl.nus.edu.sg/)).
+I\'m here for completing my undergraduate thesis on \"Disruption Tolerant Networks for Underwater Applications\" at NUS. I\'m working under [Prof. Mandar Chitre](http://www.chitre.net/) at the Acoustics Research Laboratory ([ARL](http://arl.nus.edu.sg/)).
 
 So far, I\'ve been really happy. I have to pinch myself ever so often to make myself believe that I\'ve landed the privilege of getting to work with such gifted people at the ARL. It\'s hard to believe that a formal project on DTNs that I had taken on a whim in my fifth semester would later culminate with a [Elsevier publication](https://doi.org/10.1016/j.softx.2018.12.006) and a research internship at NUS, all while helping me fill out a considerable part of my Statement of Purpose for graduate school.
 

@@ -7,9 +7,9 @@ tags: Tech, Misc
 layout: post
 ---
 
-It\'s been over a year since I switched laptops and I want to share my thoughts on my current one - the [Lenovo ThinkPad 13](https://www3.lenovo.com/us/en/laptops/thinkpad/thinkpad-13-series/ThinkPad-13-Windows-2nd-Gen/p/22TP2TX133E) Gen 1. Before getting this laptop, I had been using a Lenovo IdeaPad G580 which I had gotten back in 2013. While that laptop suited my needs at the time, the unwieldy 15.6" display, sub-standard 2 hrs battery life, and weight of 2.8kg just wasn\'t cutting it for college. I decided to go for a smaller laptop with good battery life to replace it. I was pretty satisfied with the performance of the IdeaPad so anything as good or better than its i5-3230M was enough for me.
+It\'s been over a year since I switched laptops and I want to share my thoughts on my current one - the [Lenovo ThinkPad 13](https://www3.lenovo.com/us/en/laptops/thinkpad/thinkpad-13-series/ThinkPad-13-Windows-2nd-Gen/p/22TP2TX133E) Gen 1. Before getting this laptop, I had been using a Lenovo IdeaPad G580 which I had gotten back in 2013. While that laptop suited my needs at the time, the unwieldy 15.6\" display, sub-standard 2 hrs battery life, and weight of 2.8kg just wasn\'t cutting it for college. I decided to go for a smaller laptop with good battery life to replace it. I was pretty satisfied with the performance of the IdeaPad so anything as good or better than its i5-3230M was enough for me.
 
-The first laptop which I looked at was the Asus UX305UA which ticked most of my boxes. However, some reviews had stated that its build quality was questionable so I decided to hold out for a better laptop. I later stumbled upon the Lenovo ThinkPad T460(s) which looked perfect for my needs but was just a touch out of my budget. While I was considering this, news began to surface about a 13.3" ThinkPad releasing soon, later to be known as the ThinkPad 13.
+The first laptop which I looked at was the Asus UX305UA which ticked most of my boxes. However, some reviews had stated that its build quality was questionable so I decided to hold out for a better laptop. I later stumbled upon the Lenovo ThinkPad T460(s) which looked perfect for my needs but was just a touch out of my budget. While I was considering this, news began to surface about a 13.3\" ThinkPad releasing soon, later to be known as the ThinkPad 13.
 
 It wasn\'t an easy decision between the T460s and the 13. The T460s was definitely a more charming laptop but there were just too many drawbacks for it to be a serious contender. I found several negative reviews regarding the battery life and the 1080p display lottery. The ThinkPad 13 wasn\'t without issues of its own, but there wasn\'t a single review that hadn\'t sung praises about its keyboard, battery life, and overall value proposition. Plus it came with a USB Type-C port, dual upgradeable RAM slots, and was at least $200 cheaper than a comparatively specced T460s.
 
@@ -29,7 +29,7 @@ I configured my laptop with the following specs for $720 (₹46500):
 - 256 GB Solid State Drive, SATA3 OPAL2.0 - Capable
 - 45W AC Adapter - US(2pin)
 - Intel Dual Band Wireless-AC(2x2) 8260, Bluetooth Version 4.1 vPro
-- 13.3" FHD (1920 x 1080) IPS Anti-Glare, 220 nits
+- 13.3\" FHD (1920 x 1080) IPS Anti-Glare, 220 nits
 
 I don\'t think the Windows 10 version is available in India presently. I believe a watered down Chromebook version is available on Amazon.
 
@@ -39,13 +39,13 @@ The ThinkPad 13 Gen 2 and Gen 1 share the same chassis, so most of the parts of 
 
 ## Build Quality
 
-*Pretty* decent. At 1.4kg it\'s not the smallest or lightest 13.3" laptop available, but it\'s small enough to not matter. Given the number of I/O ports onboard, it\'s a very acceptable compromise.
+*Pretty* decent. At 1.4kg it\'s not the smallest or lightest 13.3\" laptop available, but it\'s small enough to not matter. Given the number of I/O ports onboard, it\'s a very acceptable compromise.
 
 You can immediately tell it isn\'t made from the fancy composites of the X1 Carbon or the magnesium alloy of the T/X/P series ThinkPads. Yet the plastic frame of the laptop is good quality and can easily stand out on its own. Compared to other ThinkPads I\'ve tried, it feels considerably better built than the E470 and the X1 Yoga and is on par, if not better than the T440p. The P50 is more solid, though it must be kept in mind that the P50 is a much thicker laptop than the 13. The 13\'s build quality is on another level compared to the Lenovo IdeaPad G580 I had been using before this. Even after a year of heavy use, creaking on twisting the frame is non-existent and nothing feels like it\'s on the verge of falling apart like it did with the IdeaPad.
 
 The hinges are nice and tight and the lid gives a satisfying thump on closing. Speaking of which, the aluminium lid is solid and protects the display nicely. However, it does give the laptop a heterogeneous look and feel with the rest of the frame being made of plastic.
 
-One aside here, the 13 does have unique touches not found on higher end models. For example, the "i\'s" in the ThinkPad logo in both the lid and the palm-rest glow and the ThinkPad logo has a really nice brushed finish to it on the lid.
+One aside here, the 13 does have unique touches not found on higher end models. For example, the \"i\'s\" in the ThinkPad logo in both the lid and the palm-rest glow and the ThinkPad logo has a really nice brushed finish to it on the lid.
 
 Opening the laptop for servicing and upgrading is not a good experience. The bottom base is held by 10 captive screws and is incredibly fiddly to pry open. I ended up scratching off some of the paint of the bottom cover in the two times I tried opening the base. That said, upgradability is much better than what you can find on comparable ultrabooks. Both DDR4 RAM slots, the M.2 SATA SSD (no NVMe on the Gen 1 unfortunately), the Wi-Fi card, and battery can be easily replaced.
 
@@ -67,9 +67,9 @@ Wireless connectivity is serviced by the Intel 8260 Wi-Fi card, the same one use
 
 ## Display
 
-You can\'t really go wrong with a 1080p IPS display on  a 13.3" laptop.
+You can\'t really go wrong with a 1080p IPS display on  a 13.3\" laptop.
 
-The LG 1080p IPS display on ThinkPad 13 comes with a matte coating. Even for an IPS display, the viewing angles are excellent. 13.3" and 1080p is a sweet spot for sharpness and UIs scale fine in both KDE Neon and Windows 10. Thanks to the matte coating, the screen brightness is perfectly sufficient 90% of the time when I use it. I\'ve hardly run into any instances where I felt the need to crank the screen brightness any higher.
+The LG 1080p IPS display on ThinkPad 13 comes with a matte coating. Even for an IPS display, the viewing angles are excellent. 13.3\" and 1080p is a sweet spot for sharpness and UIs scale fine in both KDE Neon and Windows 10. Thanks to the matte coating, the screen brightness is perfectly sufficient 90% of the time when I use it. I\'ve hardly run into any instances where I felt the need to crank the screen brightness any higher.
 
 Colour space coverage is reportedly below average for an IPS screen and it really shows when put side by side with a MacBook Pro or a Dell Inspiron 7460. That said, for coding and web-browsing, it\'s hard to ask for more.
 
@@ -103,7 +103,7 @@ I\'m pretty happy with the touchpad as well. It has a smooth surface and has a v
 
 ## Linux Support
 
-I\'ve been using an Ubuntu derivative distro on my laptop ever since I got it. In the first few months, I used Kubuntu 16.04 and then later on I switched to KDE Neon (which, incidentally, is based on Ubuntu 16.04). Linux support is remarkable and everything "just works" right out of the box. Older versions of the 4.x Linux kernel had some issues with the touchpad "desyncing" every 15 minutes, but this has by and large been fixed over the last few months. Thanks to the excellent Mesa drivers, 3D performance of the Intel HD 520 is very stable and actually works better than my friend\'s NVidia Quadro GPU did with Nouveau drivers (not in terms of frame rate, but stability). The Trackpoint works well and all the function keys work perfectly. Also, as mentioned earlier, battery life under Linux is great. I\'m curious to see if the OneLink+ works and if the USB-C can output video on Linux.
+I\'ve been using an Ubuntu derivative distro on my laptop ever since I got it. In the first few months, I used Kubuntu 16.04 and then later on I switched to KDE Neon (which, incidentally, is based on Ubuntu 16.04). Linux support is remarkable and everything \"just works\" right out of the box. Older versions of the 4.x Linux kernel had some issues with the touchpad \"desyncing\" every 15 minutes, but this has by and large been fixed over the last few months. Thanks to the excellent Mesa drivers, 3D performance of the Intel HD 520 is very stable and actually works better than my friend\'s NVidia Quadro GPU did with Nouveau drivers (not in terms of frame rate, but stability). The Trackpoint works well and all the function keys work perfectly. Also, as mentioned earlier, battery life under Linux is great. I\'m curious to see if the OneLink+ works and if the USB-C can output video on Linux.
 
 In my opinion, there\'s nothing you\'re missing by running Linux on the 13 instead of Windows when it comes to hardware support.
 

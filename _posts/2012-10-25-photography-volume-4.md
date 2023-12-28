@@ -29,7 +29,7 @@ I\'m really in need of an entomologist here. I found this insect whilst walking 
 
 ![IMG_2608](/content/images/2018/08/IMG_2608.JPG)
 
-This is probably one of the most comical insect/bug pictures that I\'ve ever taken. The DoF worked excellently over here; it only puts the subject in focus. The first thing that came to my mind after I shot this was "suicide". Definitely one of my favourite shots.
+This is probably one of the most comical insect/bug pictures that I\'ve ever taken. The DoF worked excellently over here; it only puts the subject in focus. The first thing that came to my mind after I shot this was \"suicide\". Definitely one of my favourite shots.
 
 ![IMG_4283](/content/images/2018/08/IMG_4283.JPG)
 
@@ -37,7 +37,7 @@ Yay, another bug! I\'m really scared of wasps, but that\'s the good thing about 
 
 ![IMG_4286](/content/images/2018/08/IMG_4286.JPG)
 
-I should really call this post "Bugs and Insects Special Album!" or something. Poor jokes aside, I love the way the insect was climbing on the stigma/anthers (not too sure) of the flower. The background is sublimely blurred, but there\'s still enough detail to keep the background interesting. Top shot.
+I should really call this post \"Bugs and Insects Special Album!\" or something. Poor jokes aside, I love the way the insect was climbing on the stigma/anthers (not too sure) of the flower. The background is sublimely blurred, but there\'s still enough detail to keep the background interesting. Top shot.
 
 ![IMG_4301](/content/images/2018/08/IMG_4301.JPG)
 

@@ -153,7 +153,7 @@ The APWeb page also presents an option to record the video stream to a file on t
 
 The RTSP streams can be viewed using any RTSP player. VLC is a good choice. Some GCS such as QGroundControl and Mission Planner can also stream video over RTSP.
 
-For example, this can be done by going to "Media > Open Network Stream" and pasting in the RTSP Mount Point for the camera displayed in the APWeb configuration page. However, VLC introduces *two* seconds of latency for the jitter reduction, making it unsuitable for critical applications. To circumvent this, RTSP streams can also be viewed at lower latency by using the `gst-launch` command:
+For example, this can be done by going to \"Media > Open Network Stream\" and pasting in the RTSP Mount Point for the camera displayed in the APWeb configuration page. However, VLC introduces *two* seconds of latency for the jitter reduction, making it unsuitable for critical applications. To circumvent this, RTSP streams can also be viewed at lower latency by using the `gst-launch` command:
 
 `gst-launch-1.0 playbin uri=<RTSP-MOUNT-POINT> latency=100`
 

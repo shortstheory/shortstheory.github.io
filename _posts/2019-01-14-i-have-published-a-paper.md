@@ -8,7 +8,7 @@ layout: post
 
 I am delighted to announce that my work on Delay Tolerant Networks has culminated into a paper, published 11 months since the project started! 
 
-In this project, I worked with a faculty of the CS department, Mr. Abhishek Thakur and a college senior, Tejashwar Reddy. Here, we showed that it is viable to send specially encoded videos using an opportunistic network of Android devices. We called it VECTORS, short for "VidEo Communication Through Opportunistic Relays and Scalable video coding". Since it\'s published under Elsevier\'s Open Access policy, it does not require any subscription or institutional login to access.
+In this project, I worked with a faculty of the CS department, Mr. Abhishek Thakur and a college senior, Tejashwar Reddy. Here, we showed that it is viable to send specially encoded videos using an opportunistic network of Android devices. We called it VECTORS, short for \"VidEo Communication Through Opportunistic Relays and Scalable video coding\". Since it\'s published under Elsevier\'s Open Access policy, it does not require any subscription or institutional login to access.
 
 DOI: [https://doi.org/10.1016/j.softx.2018.12.006](https://doi.org/10.1016/j.softx.2018.12.006)
 
