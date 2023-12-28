@@ -24,27 +24,27 @@ Both Hertz and First Financial Asset Management have been harassing me for damag
 
 * I returned the car at 959am on March 8 2021. When I returned the keys, the Hertz representative at the counter did not come downstairs to inspect the vehicle in my presence. The odometer reading when I returned the vehicle was 17942 miles.
 
-* On 15 April 2021, I received an email from someone named Chad Miner at Hertz who claims damages of USD 1129.83 for damage concerning the front bumper. The email contained a [document](https://arnavdhamija.com/content/images/2023/hertz/documentation/013981537406_PhotoEstimate.pdf) where the damage was reported on 18 March 2021 with the car\'s odometer at 18290 miles. The report also contained a [pre-rental inspection report](https://arnavdhamija.com/content/images/2023/hertz/documentation/station_report_summary_v2traverse.pdf) dated 28 October 2020 with the car\'s odometer at 11821 miles. In this pre-rental inspection report, the car\'s front bumper is unblemished.
+* On 15 April 2021, I received an email from a Hertz employee named Chad Miner. This email claimed damages of USD 1129.83 for damage on the front bumper. The email contained a [document](https://arnavdhamija.com/content/images/2023/hertz/documentation/013981537406_PhotoEstimate.pdf) where the damage was reported on 18 March 2021 with the car\'s odometer at 18290 miles. The report also contained a [pre-rental inspection report](https://arnavdhamija.com/content/images/2023/hertz/documentation/station_report_summary_v2traverse.pdf) dated 28 October 2020 with the car\'s odometer at 11821 miles. In this pre-rental inspection report, the car\'s front bumper is unblemished.
 
 ![Alt text](https://arnavdhamija.com/content/images/2023/hertz/hertz-old-pics.png)
 
 *Note how Hertz\'s \'evidence\' for showing the car was in good condition was taken months before we rented it.*
 
-* I contested the claims in the email with my own pre-rental inspection photos as evidence. Mr. Miner does not address these photos when I send it to him. He provides me with a customer care number (833-932-2073) which I call several times with no response. Mr. Miner then called me on my phone number on 19 April 2021. On this call, I refused to pay for the damages. Mr. Miner said my photos are not acceptable as evidence.
+* I contested the claims in the email with my own pre-rental inspection photos as evidence. Mr. Miner did not address these photos in his reply to my email. Instead, he gave me with a customer care number (833-932-2073) which I called several times with no response. Mr. Miner then called me on my phone number on 19 April 2021. On this call, I refused to pay for the damages. Mr. Miner said my photos are not acceptable as evidence.
 
 * Over the next several months, I received several calls from First Financial Asset Management (FFAM) asking me to pay for the damages caused to the vehicle. I explained the situation and refused to pay every time they called. The frequency of these calls varied, but it was sometimes as often as once a week. Later on, the calls tapered off to once a month or less.
 
-* On November 1 2021 I received a letter from FFAM with an offer to resolve the indebtedness with a one time payment of USD 903.86 if I pay by 29 November 2021.
+* On November 1 2021 I received a letter from FFAM with an offer to resolve the indebtedness with a one time payment of USD 903.86 if I paid by 29 November 2021.
 
 * To set the record straight, I sent an email to FFAM on 11 January 2022 explaining the situation once again. This email goes unacknowledged by FFAM.
 
-* I continue to get calls from FFAM to make a payment at irregular intervals throughout 2022. I refused to pay on each of these calls.
+* I continued to get calls from FFAM to make a payment at irregular intervals throughout 2022. I refused to pay on each of these calls.
 
-* On 19 May 2023 at 803am I received a call (phone number 833-784-0956) from Randy Jones at FFAM threatening me with legal action if I didn\'t pay on that very phone call. I clarified what legal action meant in this context multiple times and Mr. Jones said it could mean a lien though he does not mention what property the lien would be against. I restate my case but Mr. Jones disregards my statements and repeatedly says I would need to pay or face legal action. Mr. Jones then offers me the option of a one time payment of USD 905 or USD 1129 paid in two installments. Out of panic and not willing to deal with a court case when I am completely unprepared, I chose the first option to make a single payment of USD 905 with my credit card. Mr. Jones initiates the payment after taking my Chase credit card details and billing address over the phone. He then mentions that the payment is flagged from my bank as fraud and tells me to resolve the matter with Chase while he\'s on the line. Before I can do so, he reports that the payment has gone through and the case is now closed.
+* On 19 May 2023 at 803am I received a call (phone number 833-784-0956) from Randy Jones at FFAM threatening me with legal action if I didn\'t pay on that very phone call. I clarified what legal action meant in this context multiple times and Mr. Jones said it could mean a lien though he does not mention what property the lien would be against. I restated my case but Mr. Jones disregarded my statements and repeatedly said I would need to pay immediately or I would face legal action. Mr. Jones then offered me the option of a one time payment of USD 905 or USD 1129 paid in two installments. Out of panic and not willing to deal with a court case when I am completely unprepared, I chose the first option to make a single payment of USD 905 with my credit card. Mr. Jones initiates the payment after taking my Chase credit card details and billing address over the phone. He then mentioned that the payment is flagged from my bank as fraud and he told me to resolve the matter with Chase while he\'s on the line. Before I can do so, he told that the payment had gone through and the case is now closed.
 
-* On 22 May 2023, I file a chargeback with Chase after realizing the debt collector has broken the rules cited at the end of this article.
+* On 22 May 2023, I filed a chargeback with Chase after realizing the debt collector has broken the rules cited at the end of this article.
 
-* On 12 June 2023 at 959am I received another call (phone number 833-784-0956) from Randy Jones at FFAM. Mr. Jones brings up that he has received notice about the chargeback from Chase and that FFAM will be proceeding with a) legal action, b) garnishment of wages, or c) cancellation of driver\'s license (?). Mr. Jones states that this call is to warn me before I get pulled over in the future. Again, as I realized after 19 May call, these threats are empty and cannot legally be made by the debt collector without a case judgement.
+* On 12 June 2023 at 959am I received another call (phone number 833-784-0956) from Randy Jones at FFAM. Mr. Jones said that he had received a notice about the chargeback from Chase and that FFAM will be proceeding with a) legal action, b) garnishment of wages, or c) cancellation of driver\'s license (?). Mr. Jones states that this call is to warn me before I get pulled over in the future. As I learned after my call with Mr. Jones on 19 May, these threats are empty and cannot legally be made by the debt collector without a case judgement.
 
 My complaints with Hertz and FFAM in this whole situation are as follows:
 
@@ -58,7 +58,11 @@ My complaints with Hertz and FFAM in this whole situation are as follows:
 
 * FFAM [did not even acknowledge my email](https://arnavdhamija.com/content/images/2023/hertz/documentation/ffam-ignored.pdf) dated 11 Jan 2022 when I attempted to explain the situation again. The CFPB even states that the debt collector must pause collecting the debt until the debt collector has responded to my dispute. [1]
 
-* My call with Mr. Jones on 19 May was very unpleasant. I only paid the amount under the threat of legal action and possible garnishment of wages. I have since learned that it is in fact illegal for debt collectors to garnish wages [2] so the threat was in fact empty. This has caused me a great deal of distress and I am very disappointed in the way FFAM has forced my hand to pay for damages which I did not cause.
+* My call with Mr. Jones on 19 May was very unpleasant. I only paid the amount under duress. I have since learned that it is in fact illegal for debt collectors to garnish wages [2] so the threat was in fact empty. This has caused me a great deal of distress and I am very disappointed in the way FFAM has forced my hand to pay for damages which I did not cause.
+
+### Update
+
+Chase ruled my chargeback request in my favour and I have gotten my money back. Big thanks to Chase for settling this matter!
 
 ### References
 
