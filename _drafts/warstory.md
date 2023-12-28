@@ -6,7 +6,7 @@ date_updated: 2019-07-31T09:17:52.000Z
 draft: true
 ---
 
-Hey guys! Here's my second warstory, my first one, well being quite
+Hey guys! Here\'s my second warstory, my first one, well being quite
 
 mediocre, so I do hope this one will be a slight improvement over that!
 
@@ -18,9 +18,9 @@ tournament*](http://www.smogon.com/forums/showpost.php?p=4236146&amp;postcount=1
 
 for me. My opponent was quite a worthy match, having a rating of 1728
 
-when I battled him (compared to my 1665). While I'm alright at double
+when I battled him (compared to my 1665). While I\'m alright at double
 
-battles, EV train, and RNG, I'm definitely not World Champion material.
+battles, EV train, and RNG, I\'m definitely not World Champion material.
 
 But my, how did that that change with this battle.
 **
@@ -65,23 +65,23 @@ up Tailwind while Gengar Protects.
 
 His leads look in a few words, very bulky. RagePowder Amoonguss is
 
-pretty much a standard set, and I don't see why this one won't have
+pretty much a standard set, and I don\'t see why this one won\'t have
 
-RagePowder. Cresselia has so many random sets in VGC, I honestly don't
+RagePowder. Cresselia has so many random sets in VGC, I honestly don\'t
 
 know what to expect.
 
 Start of turn 1
 
-Nic's Gengar used Protect.
+Nic\'s Gengar used Protect.
 
-Nic's Suicune used Tailwind.
+Nic\'s Suicune used Tailwind.
 
-It raised its allies' speed!
+It raised its allies\' speed!
 
-Andy's Amoonguss used Giga Drain on Suicune.
+Andy\'s Amoonguss used Giga Drain on Suicune.
 
-It's super effective against Suicune.
+It\'s super effective against Suicune.
 
 Suicune lost 60 HP (29%).
 
@@ -91,9 +91,9 @@ height="0.3333333333333333in"}
 
 205 → 145
 
-Suicune's health is drained! Amoonguss regained 30 HP.
+Suicune\'s health is drained! Amoonguss regained 30 HP.
 
-Andy's Cresselia used Trick Room.
+Andy\'s Cresselia used Trick Room.
 
 Cresselia twisted the dimensions!
 
@@ -111,33 +111,33 @@ M
 
 G
 
-What have I done? It's bad enough going against a high ranked opponent
+What have I done? It\'s bad enough going against a high ranked opponent
 
 without knowing his plan of attack, but doing something totally useless
 
 is probably scaling the heights of stupidity.
 
-I don't know what cue this team didn't tell me about being a Trick Room
+I don\'t know what cue this team didn\'t tell me about being a Trick Room
 
-team. My opponent has got a huge advantage already, I can't afford to
+team. My opponent has got a huge advantage already, I can\'t afford to
 
 make any more misplays now.
 
-My Suicune isn't going to last long, as I'm going last as it is, and
+My Suicune isn\'t going to last long, as I\'m going last as it is, and
 
-Giga Drain's gonna KO Suicune eventually.
+Giga Drain\'s gonna KO Suicune eventually.
 
 Start of turn 2
 
 Andy replaced Cresselia with Rhyperior (level 50 Rhyperior).
 
-Andy's Amoonguss used Spore on Suicune.
+Andy\'s Amoonguss used Spore on Suicune.
 
 Suicune is asleep!
 
 Suicune is fast asleep.
 
-Nic's Gengar used Shadow Ball on Rhyperior.
+Nic\'s Gengar used Shadow Ball on Rhyperior.
 
 Rhyperior lost 148 HP (66%).
 
@@ -155,33 +155,33 @@ height="0.3333333333333333in"}
 
 Suicune restored some HP using its Leftovers.
 
-Well, the switch wasn't exactly expected.
+Well, the switch wasn\'t exactly expected.
 
 Given this is a doubles match, either my opponent just had dumb luck to
 
-get his rating with plays like that, or he's a mind-reading genius. I'm
+get his rating with plays like that, or he\'s a mind-reading genius. I\'m
 
-not sure whether he's the latter or former though!
+not sure whether he\'s the latter or former though!
 
-Then again, it makes perfect sense to get Cressy away from Gengar's
+Then again, it makes perfect sense to get Cressy away from Gengar\'s
 
-imminent Shadow Balls. Suicune getting put to bed really isn't nice,
+imminent Shadow Balls. Suicune getting put to bed really isn\'t nice,
 
-since it's always the defensive mainstay of my doubles team. And, it can
+since it\'s always the defensive mainstay of my doubles team. And, it can
 
-really kick Rhyperior's stony ass. Nevertheless, Gengar takes quite a
+really kick Rhyperior\'s stony ass. Nevertheless, Gengar takes quite a
 
 chunk out of Rhyperior, though I need to be wary of more sleep.
 
 Start of turn 3
 
-Nic's Gengar used Protect.
+Nic\'s Gengar used Protect.
 
-Andy's Amoonguss used Spore on Gengar.
+Andy\'s Amoonguss used Spore on Gengar.
 
 Gengar protected itself!
 
-Andy's Rhyperior used Rock Slide.
+Andy\'s Rhyperior used Rock Slide.
 
 Gengar protected itself!
 
@@ -209,9 +209,9 @@ height="0.3333333333333333in"}
 
 Suicune restored some HP using its Leftovers.
 
-Gengar had to be Protected form Rhyperior's rain of stones this turn.
+Gengar had to be Protected form Rhyperior\'s rain of stones this turn.
 
-Having two Pokemon put to sleep would've definitely ended the battle for
+Having two Pokemon put to sleep would\'ve definitely ended the battle for
 
 me, so this was pretty explanatory. Suicune continues to doze away.
 
@@ -223,9 +223,9 @@ Start of turn 4
 
 Nic replaced Gengar with Gliscor (level 50 Gliscor).
 
-Andy's Amoonguss used Giga Drain on Suicune.
+Andy\'s Amoonguss used Giga Drain on Suicune.
 
-It's super effective against Suicune.
+It\'s super effective against Suicune.
 
 Suicune lost 62 HP (30%).
 
@@ -235,9 +235,9 @@ height="0.3333333333333333in"}
 
 107 → 45
 
-Suicune's health is drained! Amoonguss regained 31 HP.
+Suicune\'s health is drained! Amoonguss regained 31 HP.
 
-Andy's Rhyperior used Rock Slide.
+Andy\'s Rhyperior used Rock Slide.
 
 Gliscor lost 56 HP (30%).
 
@@ -271,7 +271,7 @@ Gliscor is badly poisoned!
 
 Nic replaced Suicune with Gengar (level 50 Gengar).
 
-The tailwind on Nic's team petered out!
+The tailwind on Nic\'s team petered out!
 
 Yeah, I totally went against multi-Pokemon philosophy there.
 
@@ -281,7 +281,7 @@ NOT lose Gengar at this stage. Gliscor can take pretty much anything
 
 Rhyperior can throw at it, maybe barring an Ice Punch.
 
-Too bad that switch didn't even last a turn >_<. Suicune's demise
+Too bad that switch didn\'t even last a turn >_<. Suicune\'s demise
 
 means that this battle will be a lot harder to win now. The good news is
 
@@ -293,11 +293,11 @@ Start of turn 5
 
 Andy replaced Rhyperior with Cresselia (level 50 Cresselia).
 
-Nic's Gliscor used Protect.
+Nic\'s Gliscor used Protect.
 
-Nic's Gengar used Protect.
+Nic\'s Gengar used Protect.
 
-Andy's Amoonguss used Spore on Gengar.
+Andy\'s Amoonguss used Spore on Gengar.
 
 Gengar protected itself!
 
@@ -311,7 +311,7 @@ height="0.3333333333333333in"}
 
 The twisted dimensions returned to normal.
 
-Trick Room's coming back soon. Otherwise, my opponent definitely doesn't
+Trick Room\'s coming back soon. Otherwise, my opponent definitely doesn\'t
 
 have a good reason to switch. The double Protect was entirely needed to
 
@@ -321,11 +321,11 @@ some damage to get my act together.
 
 Start of turn 6
 
-Andy's Amoonguss used Rage Powder.
+Andy\'s Amoonguss used Rage Powder.
 
-Amoonguss's becomes the target of Gengar's move.
+Amoonguss\'s becomes the target of Gengar\'s move.
 
-Nic's Gengar used Shadow Ball on Amoonguss.
+Nic\'s Gengar used Shadow Ball on Amoonguss.
 
 Amoonguss lost 61 HP (27%).
 
@@ -335,17 +335,17 @@ height="0.3333333333333333in"}
 
 221 → 160
 
-Amoonguss's becomes the target of Gliscor's move.
+Amoonguss\'s becomes the target of Gliscor\'s move.
 
-Nic's Gliscor used Earthquake.
+Nic\'s Gliscor used Earthquake.
 
 Gengar is unaffected.
 
-Gliscor's attack has no effect on Gengar
+Gliscor\'s attack has no effect on Gengar
 
 Cresselia is unaffected.
 
-Gliscor's attack has no effect on Cresselia
+Gliscor\'s attack has no effect on Cresselia
 
 Amoonguss lost 67 HP (30%).
 
@@ -355,7 +355,7 @@ height="0.3333333333333333in"}
 
 160 → 93
 
-Andy's Cresselia used Trick Room.
+Andy\'s Cresselia used Trick Room.
 
 Cresselia twisted the dimensions!
 
@@ -389,9 +389,9 @@ Start of turn 7
 
 Andy replaced Amoonguss with Eelektross (level 50 Eelektross).
 
-Andy's Cresselia used Protect.
+Andy\'s Cresselia used Protect.
 
-Nic's Gliscor used Ice Fang on Eelektross.
+Nic\'s Gliscor used Ice Fang on Eelektross.
 
 Eelektross lost 42 HP (26%).
 
@@ -401,7 +401,7 @@ height="0.3333333333333333in"}
 
 161 → 119
 
-Nic's Gengar used Shadow Ball on Cresselia.
+Nic\'s Gengar used Shadow Ball on Cresselia.
 
 Cresselia protected itself!
 
@@ -425,27 +425,27 @@ Cresselia is becoming quite a pain to kill, between Trick Room, Protect,
 
 move A, and move B.
 
-Come to think of it, my position isn't that bad, barring Suicune's loss.
+Come to think of it, my position isn\'t that bad, barring Suicune\'s loss.
 
-Gengar's pretty much intact, and Gliscor's back to full HP. I'm still in
+Gengar\'s pretty much intact, and Gliscor\'s back to full HP. I\'m still in
 
 stormy weather, so I need to play it easily for the next few turns.
 
 Start of turn 8
 
-Nic's Gliscor used Protect.
+Nic\'s Gliscor used Protect.
 
-Andy's Eelektross used Hidden Power on Gliscor.
-
-Gliscor protected itself!
-
-Andy's Cresselia used Psychic on Gliscor.
+Andy\'s Eelektross used Hidden Power on Gliscor.
 
 Gliscor protected itself!
 
-Nic's Gengar used Shadow Ball on Cresselia.
+Andy\'s Cresselia used Psychic on Gliscor.
 
-It's super effective against Cresselia.
+Gliscor protected itself!
+
+Nic\'s Gengar used Shadow Ball on Cresselia.
+
+It\'s super effective against Cresselia.
 
 Cresselia lost 132 HP (60%).
 
@@ -465,11 +465,11 @@ Cresselia restored some HP using its Leftovers.
 
 Gliscor is healed by poison.
 
-HP Ice is a standard move on Eelektross. It's always a good idea to
+HP Ice is a standard move on Eelektross. It\'s always a good idea to
 
 scout out a move (and to stall Trick Room) before making my next one.
 
-Gengar's Shadow Ball smashes the Lunar Pokemon for a hefty amount
+Gengar\'s Shadow Ball smashes the Lunar Pokemon for a hefty amount
 
 damage. (Expert Belt :D) Knowing that 2HKOing Cresselia is a
 
@@ -481,11 +481,11 @@ Start of turn 9
 
 Nic replaced Gliscor with Virizion (level 50 Virizion).
 
-Andy's Cresselia used Protect.
+Andy\'s Cresselia used Protect.
 
-Andy's Eelektross used Hidden Power on Virizion.
+Andy\'s Eelektross used Hidden Power on Virizion.
 
-It's super effective against Virizion.
+It\'s super effective against Virizion.
 
 Virizion lost 64 HP (38%).
 
@@ -495,7 +495,7 @@ height="0.3333333333333333in"}
 
 167 → 103
 
-Nic's Gengar used Shadow Ball on Cresselia.
+Nic\'s Gengar used Shadow Ball on Cresselia.
 
 Cresselia protected itself!
 
@@ -517,15 +517,15 @@ Room, so I can get back to fast-paced hitting.
 
 Start of turn 10
 
-Nic's Virizion used Protect.
+Nic\'s Virizion used Protect.
 
-Nic's Gengar used Protect.
+Nic\'s Gengar used Protect.
 
-Andy's Eelektross used Wild Charge on Gengar.
+Andy\'s Eelektross used Wild Charge on Gengar.
 
 Gengar protected itself!
 
-Andy's Cresselia used Psychic on Gengar.
+Andy\'s Cresselia used Psychic on Gengar.
 
 Gengar protected itself!
 
@@ -543,25 +543,25 @@ Actually, stalling this round of Trick Room was done easier than said.
 
 While there were risks involved, only, well, the deceased Paul the
 
-Octopus could've out-predicted me there.
+Octopus could\'ve out-predicted me there.
 
-Yup, that's right Trick Room's done and dusted. Cresselia having Psychic
+Yup, that\'s right Trick Room\'s done and dusted. Cresselia having Psychic
 
-really worries me, I just hope it doesn't have SpA investment.
+really worries me, I just hope it doesn\'t have SpA investment.
 
 And still, it could be worse, if it knows Ice Beam too.
 
 Start of turn 11
 
-Andy's Cresselia used Protect.
+Andy\'s Cresselia used Protect.
 
-Nic's Gengar used Shadow Ball on Cresselia.
+Nic\'s Gengar used Shadow Ball on Cresselia.
 
 Cresselia protected itself!
 
-Nic's Virizion used Close Combat on Eelektross.
+Nic\'s Virizion used Close Combat on Eelektross.
 
-The power of Close Combat is increased by Virizion's Fighting Gem
+The power of Close Combat is increased by Virizion\'s Fighting Gem
 
 Eelektross lost 184 HP (114%).
 
@@ -573,9 +573,9 @@ height="0.3333333333333333in"}
 
 Eelektross fainted!
 
-Virizion's Defense fell!
+Virizion\'s Defense fell!
 
-Virizion's Sp. Defense fell!
+Virizion\'s Sp. Defense fell!
 
 Eelektross was trying to use Acrobatics.
 
@@ -597,11 +597,11 @@ get Gliscor back in the game to win me the game.
 
 Start of turn 12
 
-Andy's Amoonguss used Rage Powder.
+Andy\'s Amoonguss used Rage Powder.
 
-Amoonguss's becomes the target of Gengar's move.
+Amoonguss\'s becomes the target of Gengar\'s move.
 
-Nic's Gengar used Shadow Ball on Amoonguss.
+Nic\'s Gengar used Shadow Ball on Amoonguss.
 
 Amoonguss lost 60 HP (27%).
 
@@ -611,11 +611,11 @@ height="0.3333333333333333in"}
 
 106 → 46
 
-Amoonguss's becomes the target of Virizion's move.
+Amoonguss\'s becomes the target of Virizion\'s move.
 
-Nic's Virizion used Close Combat on Amoonguss.
+Nic\'s Virizion used Close Combat on Amoonguss.
 
-It's not very effective against Amoonguss.
+It\'s not very effective against Amoonguss.
 
 Amoonguss lost 62 HP (28%).
 
@@ -627,13 +627,13 @@ height="0.3333333333333333in"}
 
 Amoonguss fainted!
 
-Virizion's Defense fell!
+Virizion\'s Defense fell!
 
-Virizion's Sp. Defense fell!
+Virizion\'s Sp. Defense fell!
 
-Amoonguss's Effect Spore Paralyzed Virizion!
+Amoonguss\'s Effect Spore Paralyzed Virizion!
 
-Andy's Cresselia used Trick Room.
+Andy\'s Cresselia used Trick Room.
 
 Cresselia twisted the dimensions!
 
@@ -653,17 +653,17 @@ this guy knows that losing Trick Room is as good as losing the battle. I
 
 feel pretty bummed, but slaughtering mushrooms feels so good.
 
-And, to leave its finishing touch to it's pugnacious exterior, Amoonguss
+And, to leave its finishing touch to it\'s pugnacious exterior, Amoonguss
 
-leaves it's final blow: paralyzing Virizion.
+leaves it\'s final blow: paralyzing Virizion.
 
 Start of turn 13
 
-Nic's Gengar used Protect.
+Nic\'s Gengar used Protect.
 
 Virizion used Leaf Blade.
 
-It's super effective against Rhyperior.
+It\'s super effective against Rhyperior.
 
 Rhyperior lost 30 HP (14%).
 
@@ -675,9 +675,9 @@ height="0.3333333333333333in"}
 
 Rhyperior fainted!
 
-Andy's Cresselia used Psychic on Virizion.
+Andy\'s Cresselia used Psychic on Virizion.
 
-It's super effective against Virizion.
+It\'s super effective against Virizion.
 
 Virizion lost 103 HP (62%).
 
@@ -712,21 +712,21 @@ that Rhyperior is running higher than min speed to outspeed paralyzed
 
 max speed Jolly Virizion.
 
-While I would've never imagined it from the first turn, this battle has
+While I would\'ve never imagined it from the first turn, this battle has
 
 totally shifted the balance. The smell of victory flirts with my
 
-nostrils, but it's still not guaranteed.
+nostrils, but it\'s still not guaranteed.
 
 Anyway, Comrade Virizion goes, after superbly dishing out a few KOs. Who
 
-says Virizion isn't capable of a sweep?
+says Virizion isn\'t capable of a sweep?
 
 Start of turn 14
 
-Andy's Cresselia used Psychic on Gengar.
+Andy\'s Cresselia used Psychic on Gengar.
 
-It's super effective against Gengar.
+It\'s super effective against Gengar.
 
 Gengar lost 120 HP (96%).
 
@@ -736,7 +736,7 @@ height="0.3333333333333333in"}
 
 125 → 5
 
-Nic's Gliscor used Rock Slide on Cresselia.
+Nic\'s Gliscor used Rock Slide on Cresselia.
 
 Cresselia lost 20 HP (10%)
 
@@ -746,9 +746,9 @@ height="0.3333333333333333in"}
 
 164 → 144
 
-Nic's Gengar used Shadow Ball on Cresselia.
+Nic\'s Gengar used Shadow Ball on Cresselia.
 
-It's super effective against Cresselia.
+It\'s super effective against Cresselia.
 
 Cresselia lost 137 HP (63%)
 
@@ -770,21 +770,21 @@ Gliscor is healed by poison.
 
 Woah woah.
 
-Minmax damage could've made a HUGE difference here. It's really lucky to
+Minmax damage could\'ve made a HUGE difference here. It\'s really lucky to
 
 have Gengar survive Psychic like that, and a little unlucky to not have
 
-killed it immediately. Had Gengar died, Gliscor would've had a really
+killed it immediately. Had Gengar died, Gliscor would\'ve had a really
 
 tough time surviving all those Psychics.
 
-Anyway, let's see if my superior opponent can defend his rating.
+Anyway, let\'s see if my superior opponent can defend his rating.
 
 Start of turn 15
 
-Nic's Gengar used Protect.
+Nic\'s Gengar used Protect.
 
-Andy's Cresselia used Psychic on Gliscor.
+Andy\'s Cresselia used Psychic on Gliscor.
 
 Gliscor lost 54 HP (29%).
 
@@ -794,7 +794,7 @@ height="0.3333333333333333in"}
 
 182 → 128
 
-Nic's Gliscor used Ice Fang on Cresselia.
+Nic\'s Gliscor used Ice Fang on Cresselia.
 
 Cresselia lost 25 HP (11%).
 
@@ -830,13 +830,13 @@ To finish off:
 
 **Virizion; screwing everything one-by-one
 
-Gengar; the first time she's (yeah it's female -_-) ever survived from
+Gengar; the first time she\'s (yeah it\'s female -_-) ever survived from
 
 the first to last turn
 
 Stalling Trick Room :D
 
-My opponent's Cresselia; my word, what a team supporter. Nearly stole
+My opponent\'s Cresselia; my word, what a team supporter. Nearly stole
 
 the game from me.
 

@@ -17,11 +17,11 @@ Technical chatter aside; the photos (click to enlarge):
 
 ![IMG_6748](/content/images/2018/08/IMG_6748.JPG)
 
-Let's start off with this. A rare shot with two animals. I can't offer any opinion as to why the squirrel didn't run away from there or why the bird landed there in the first place, but using a wide aperture and high zoom did wonders here.
+Let\'s start off with this. A rare shot with two animals. I can\'t offer any opinion as to why the squirrel didn\'t run away from there or why the bird landed there in the first place, but using a wide aperture and high zoom did wonders here.
 
 ![IMG_6770](/content/images/2018/08/IMG_6770.JPG)
 
-Another squirrel? Well, actually it's the same one as in the previous picture. I'm at the risk of repeating photos over here, but this shot was way too good to pass up. The dark area which you see to the right of the image actually gives this photo a subtle effect and the squirrel's pose is fantastic. Using a digital camera gave me a wide choice of focal lengths without much adjustment. This one is 929 mm equivalent on a 35 mm film. Used f-stop 5.7 here, because wider apertures are beyond the camera's potential at these focal lengths.
+Another squirrel? Well, actually it\'s the same one as in the previous picture. I\'m at the risk of repeating photos over here, but this shot was way too good to pass up. The dark area which you see to the right of the image actually gives this photo a subtle effect and the squirrel\'s pose is fantastic. Using a digital camera gave me a wide choice of focal lengths without much adjustment. This one is 929 mm equivalent on a 35 mm film. Used f-stop 5.7 here, because wider apertures are beyond the camera\'s potential at these focal lengths.
 
 ![IMG_6799](/content/images/2018/08/IMG_6799.JPG)
 
@@ -29,7 +29,7 @@ Pretty nice shot here as well. It looks like a macro shot, but this one was shot
 
 ![IMG_6817](/content/images/2018/08/IMG_6817.JPG)
 
-I won't lie to you by saying that this picture was taken at a different location from the previous one. I like the bee's placement in the flower and the flower itself. The flies and the varieties of insects that adorn the flower also look good over here. The background is one of my favourite parts of this photo, with details blurred to put emphasis on the main flower, but visible at the same time. It's a hard balance to maintain, but I'm glad that it worked over here.
+I won\'t lie to you by saying that this picture was taken at a different location from the previous one. I like the bee\'s placement in the flower and the flower itself. The flies and the varieties of insects that adorn the flower also look good over here. The background is one of my favourite parts of this photo, with details blurred to put emphasis on the main flower, but visible at the same time. It\'s a hard balance to maintain, but I\'m glad that it worked over here.
 
 ![IMG_6972](/content/images/2018/08/IMG_6972.JPG)
 
@@ -41,24 +41,24 @@ I suppose the colour over here is the main part of the photo. Clarity and contra
 
 ![IMG_7327](/content/images/2018/08/IMG_7327.JPG)
 
-While I'll be mean to call this an ugly butterfly (I'm sure it's not a moth!), I think it looks magnificent over here. Although eye-pleasing colours are practically non-existent in this photo, you should look at the contrast of the ground to the insect. It looks pretty good, and the other insects around the butterfly provide a level of detail, without which, this photo would look much plainer.
+While I\'ll be mean to call this an ugly butterfly (I\'m sure it\'s not a moth!), I think it looks magnificent over here. Although eye-pleasing colours are practically non-existent in this photo, you should look at the contrast of the ground to the insect. It looks pretty good, and the other insects around the butterfly provide a level of detail, without which, this photo would look much plainer.
 
 ![IMG_7331](/content/images/2018/08/IMG_7331.JPG)
 
-Probably one of the best shots I took on that day. The coconut as a subject may make you raise eyebrows, but it's totally unlike anything else I've shot. The focusing was perfect here, giving the photo a very small depth of field. Less can be more and this shot exemplifies it.
+Probably one of the best shots I took on that day. The coconut as a subject may make you raise eyebrows, but it\'s totally unlike anything else I\'ve shot. The focusing was perfect here, giving the photo a very small depth of field. Less can be more and this shot exemplifies it.
 
 ![IMG_7583](/content/images/2018/08/IMG_7583.JPG)
 
-You might've seen that I've only done close-up shots. This is one of the very few landscape shots I've taken. Excellent scenery and I really don't have much more to say about this.
+You might\'ve seen that I\'ve only done close-up shots. This is one of the very few landscape shots I\'ve taken. Excellent scenery and I really don\'t have much more to say about this.
 
 ![IMG_7583-1](/content/images/2018/08/IMG_7583-1.JPG)
 
-The mynah had a nice stance and perching position for this. The background is suitably blurred over here and the foreground falls into focus nicely. The background is great for this and the bird's details are captured with some success.
+The mynah had a nice stance and perching position for this. The background is suitably blurred over here and the foreground falls into focus nicely. The background is great for this and the bird\'s details are captured with some success.
 
 ![IMG_8064](/content/images/2018/08/IMG_8064.JPG)
 
 It might look odd to photograph only the head of a peacock without its resplendent body. But the head itself actually has fantastic detail. The blue colour stands out superbly and there is a generous amount of empty space in the photo which is essential for greater emphasis on the bird. An unorthodox, but great shot.
 
-That's it folks! (I have no idea why I quoted that)
+That\'s it folks! (I have no idea why I quoted that)
 
 Comment, criticize, and praise at your own will.

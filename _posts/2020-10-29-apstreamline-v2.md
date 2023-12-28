@@ -6,14 +6,14 @@ tags: Ardupilot, GSoC, Programming
 layout: post
 ---
 
-The [APStreamline project](https://github.com/shortstheory/APStreamline/) aims to make streaming live video from companion computers as painless as possible. It was first released as the product of my ArduPilot [GSoC project](https://discuss.ardupilot.org/t/introducing-apstreamline/31723) back in 2018. Community feedback for APStreamline was very encouraging and that led me to continue development in 2019. However, there was an issue which had been nagging at me from the outset of its v1 release - adding support for new cameras was tricky due to the confusing coupling of some classes in the codebase. In fact, the most requested feature I've received for APStreamline has been to make it easier to add support for different types of cameras.
+The [APStreamline project](https://github.com/shortstheory/APStreamline/) aims to make streaming live video from companion computers as painless as possible. It was first released as the product of my ArduPilot [GSoC project](https://discuss.ardupilot.org/t/introducing-apstreamline/31723) back in 2018. Community feedback for APStreamline was very encouraging and that led me to continue development in 2019. However, there was an issue which had been nagging at me from the outset of its v1 release - adding support for new cameras was tricky due to the confusing coupling of some classes in the codebase. In fact, the most requested feature I\'ve received for APStreamline has been to make it easier to add support for different types of cameras.
 
 ![](/content/images/2020/IMG_0674.JPG)
 *APStreamline has grown to support a wide variety of use cases for network adaptive video streaming*
 
-The Linux V4L2 driver helps in making it easier to add support for different cameras. Several cameras have a standard interface for capturing video using GStreamer elements. So why does support for each camera need to be baked into the code? The reason is that some cameras use different GStreamer elements, some only support non-standard resolutions, and some even have onboard ASICs for H.264 compression. For example, in the NVIDIA Jetson line of single-board computers have GStreamer pipelines built specifically for accessing the Jetson's ISP and hardware encoder for high quality video encoding. To make the most of each camera and companion computer, it is well worth the effort to add specific support for popular camera models.
+The Linux V4L2 driver helps in making it easier to add support for different cameras. Several cameras have a standard interface for capturing video using GStreamer elements. So why does support for each camera need to be baked into the code? The reason is that some cameras use different GStreamer elements, some only support non-standard resolutions, and some even have onboard ASICs for H.264 compression. For example, in the NVIDIA Jetson line of single-board computers have GStreamer pipelines built specifically for accessing the Jetson\'s ISP and hardware encoder for high quality video encoding. To make the most of each camera and companion computer, it is well worth the effort to add specific support for popular camera models.
 
-All this inspired a rewrite of the code, and I am proud to announce that with the release of APStreamline v2, it is now much simpler to add support for your own camera! Let's first take a look at what devices are already supported:
+All this inspired a rewrite of the code, and I am proud to announce that with the release of APStreamline v2, it is now much simpler to add support for your own camera! Let\'s first take a look at what devices are already supported:
 
 ### Cameras Supported
 
@@ -34,7 +34,7 @@ All this inspired a rewrite of the code, and I am proud to announce that with th
 To add specific your own camera, follow these steps!
 
 1) Figure out the optimized GStreamer pipeline used for your camera. You can usually find this in the Linux documentation for your camera or online developer forums. There are differences for each camera but there is a generic template for most GStreamer pipelines: `SRC ! CAPSFILTER ! ENCODER ! SINK`. 
-There might be more elements or additional capsfilters depending on each camera. In case you aren't sure what to do, feel free to drop a [GitHub issue](https://github.com/shortstheory/APStreamline/issues) to ask!
+There might be more elements or additional capsfilters depending on each camera. In case you aren\'t sure what to do, feel free to drop a [GitHub issue](https://github.com/shortstheory/APStreamline/issues) to ask!
 
 2) Create a configuration file for your camera. There are examples in the `config/` folder. The element names must match those in the examples for APStreamline to set references to the GStreamer elements correctly.
 

@@ -36,7 +36,7 @@ stack.top()/push()/pop()
 bool next_permutation (BidirectionalIterator first,
                        BidirectionalIterator last);
 rbegin()/rend()
-do map[key]++ if map<key,int>. By default it's 0
+do map[key]++ if map<key,int>. By default it\'s 0
 iterate through set whilst deleting
 for (auto it = numbers.begin(); it != numbers.end(); ) {
     if (*it % 2 == 0) {
@@ -106,8 +106,8 @@ unique_ptr<T> and unique_ptr<T[]> for arrays, though inferior
 shared_ptr == 2 ptrs - one for actual ptr and one for the ref count
     * uses atomic under the hood
     * once shared - cant downgrade
-    * std::shared_ptr<int> p(new int);  // or '=shared_ptr<int>(new int)' if you insist
-    * auto p = std::make_shared<int>(); // or 'std::shared_ptr<int> p' if you insist
+    * std::shared_ptr<int> p(new int);  // or \'=shared_ptr<int>(new int)\' if you insist
+    * auto p = std::make_shared<int>(); // or \'std::shared_ptr<int> p\' if you insist
 weak_ptr - catch dangles
     * shared_ptr which doesnt affect reference count
     * std::weak_ptr<Widget> wpw(spw);
@@ -202,7 +202,7 @@ cannot distinguish between X const& and X&&
 cool!
 http://www.cplusplus.com/reference/valarray/mask_array/
 
-## QQ's
+## QQ\'s
 * wtf is RVO return value opti
 *R AII
 Rvalue

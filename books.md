@@ -1,12 +1,12 @@
 ---
-title: Books I've Read
+title: Books I\'ve Read
 slug: books
 date_published: 2019-12-31T06:54:07.000Z
 date_updated: 2020-04-30T04:59:50.000Z
 layout: page
 ---
 
-This is a continuously updated list of books I've read since 2018. Books which have stood out to me are in bold:
+This is a continuously updated list of books I\'ve read since 2018. Books which have stood out to me are in bold:
 
 ### 2023
 
@@ -59,18 +59,18 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - **Mindf*ck - Christopher Wylie**
 - Looking for Alaska - John Green
 - Paper Towns - John Green
-- **The Ultimate Hitchhiker's Guide to the Galaxy - Douglas Adams**
+- **The Ultimate Hitchhiker\'s Guide to the Galaxy - Douglas Adams**
 - **The Big Short - Michael Lewis**
-- **So You've Been Publicly Shamed - Jon Ronson**
+- **So You\'ve Been Publicly Shamed - Jon Ronson**
 - The Fowl Twins - Eoin Colfer
 - The Great Influenza - John M. Barry
 - Siddhartha - Hermann Hesse
-- Trust Me, I'm Lying - Ryan Holiday
+- Trust Me, I\'m Lying - Ryan Holiday
 - Never Say Die - Anthony Horowitz
 - Do Androids Dream of Electric Sheep? - Philip K. Dick
 - **Prisoners of Geography - Tim Marshall**
 - Nightshade - Anthony Horowitz
-- Cat's Cradle - Kurt Vonnegut
+- Cat\'s Cradle - Kurt Vonnegut
 - The Subtle Art of Not Giving a F*ck - Mark Manson
 - Billion Dollar Whale - Tom Wright
 - Digital Minimalism - Cal Newport
@@ -109,5 +109,5 @@ This is a continuously updated list of books I've read since 2018. Books which h
 - **Paths of Glory - Jeffery Archer**
 - The Railway Children - Edith Nesbit
 - **Spelunky - Derek Yu**
-- **An Astronaut's Guide to Life on Earth - Chris Hadfield**
+- **An Astronaut\'s Guide to Life on Earth - Chris Hadfield**
 - Deception Point - Dan Brown

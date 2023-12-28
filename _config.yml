@@ -7,7 +7,6 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 future:              true
-
 # About/contact
 author:
   name:              Arnav Dhamija

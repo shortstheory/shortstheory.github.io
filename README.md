@@ -1,6 +1,6 @@
 # Lanyon
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It\'s based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
 ![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
@@ -30,7 +30,7 @@ Lanyon includes some customizable options, typically applied via classes on the 
 
 ### Sidebar menu
 
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
+Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page\'s [front-matter](http://jekyllrb.com/docs/frontmatter/).
 
 ```
 ---
@@ -61,7 +61,7 @@ To use a theme, add any one of the available theme classes to the `<body>` eleme
 </body>
 ```
 
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/lanyon/blob/master/public/css/lanyon.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
+To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/lanyon/blob/master/public/css/lanyon.css). Copy any existing theme (they\'re only a few lines of CSS), rename it, and change the provided colors.
 
 
 ### Reverse layout
@@ -90,7 +90,7 @@ Make the sidebar overlap the viewport content with a single class:
 
 This will keep the content stationary and slide in the sidebar over the side content. It also adds a `box-shadow` based outline to the toggle for contrast against backgrounds, as well as a `box-shadow` on the sidebar for depth.
 
-It's also available for a reversed layout when you add both classes:
+It\'s also available for a reversed layout when you add both classes:
 
 ```html
 <body class="layout-reverse sidebar-overlay">
@@ -106,7 +106,7 @@ Show an open sidebar on page load by modifying the `<input>` tag within the `sid
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
 ```
 
-Using Liquid you can also conditionally show the sidebar open on a per-page basis. For example, here's how you could have it open on the homepage only:
+Using Liquid you can also conditionally show the sidebar open on a per-page basis. For example, here\'s how you could have it open on the homepage only:
 
 ```html
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" {% if page.title =="Home" %}checked{% endif %}>

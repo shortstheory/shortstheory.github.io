@@ -7,7 +7,7 @@ tags: Photography
 layout: post
 ---
 
-Hi guys, its been a long time since I've updated this. Got a few photos with my awesome Canon SX1-IS cam. (click to enlarge)
+Hi guys, its been a long time since I\'ve updated this. Got a few photos with my awesome Canon SX1-IS cam. (click to enlarge)
 
 ![IMG_5067-1](/content/images/2018/08/IMG_5067-1.JPG)
 

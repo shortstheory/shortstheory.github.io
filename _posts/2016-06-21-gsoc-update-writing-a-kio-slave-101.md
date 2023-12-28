@@ -20,7 +20,7 @@ For the purpose of this tutorial, your project source directory needs to have th
 - hello.json
 - CMakeLists.txt
 
-If you don't feel like creating these yourself, just clone it from here: [https://github.com/shortstheory/kioslave-tutorial](https://github.com/shortstheory/kioslave-tutorial)
+If you don\'t feel like creating these yourself, just clone it from here: [https://github.com/shortstheory/kioslave-tutorial](https://github.com/shortstheory/kioslave-tutorial)
 
 #### hello.json
 
@@ -66,7 +66,7 @@ As for the CMakeLists.txt, you will need to link your KIO slave module with KF5:
 
 The Hello KIO slave is derived from KIO::SlaveBase. The SlaveBase class has some basic functions already implemented for the KIO slave. This can be found in the [documentation](https://api.kde.org/frameworks/kio/html/classKIO_1_1SlaveBase.html). However, most of the functions of SlaveBase are virtual functions and have to be re-implemented for the KIO slave. In this case, we are re-implementing the get function to print a QString when it is called by kioclient5.
 
-In case you don't need special handling of the KIO slave's functions, you can derive your KIO slave class directly from [KIO::ForwardingSlaveBase](https://api.kde.org/frameworks/kio/html/classKIO_1_1ForwardingSlaveBase.html). Here, you would only need to re-implement the rewriteUrl function to get your KIO slave working.
+In case you don\'t need special handling of the KIO slave\'s functions, you can derive your KIO slave class directly from [KIO::ForwardingSlaveBase](https://api.kde.org/frameworks/kio/html/classKIO_1_1ForwardingSlaveBase.html). Here, you would only need to re-implement the rewriteUrl function to get your KIO slave working.
 
 #### kio_hello.cpp
 
@@ -112,7 +112,7 @@ In case you don't need special handling of the KIO slave's functions, you can de
 
 The .moc file is, of course, auto-generated at compilation time.
 
-As mentioned earlier, the KIO Slave's .cpp file will also require a new KIOPluginForMetaData class to add the .json file. The following is used for the hello KIO slave and can be used as an example:
+As mentioned earlier, the KIO Slave\'s .cpp file will also require a new KIOPluginForMetaData class to add the .json file. The following is used for the hello KIO slave and can be used as an example:
 
     class KIOPluginForMetaData : public QObject  
     {  
@@ -164,7 +164,7 @@ As shown above, we have to run kdeinit5 again so the new KIO slave is discovered
 
 Run:
 
-    kioclient5 'cat' 'hello:/'  
+    kioclient5 \'cat\' \'hello:/\'  
     
 
 And the output should be:

@@ -60,7 +60,7 @@ I frequently find myself needing to lookup how to do simple things with Linux an
 
 ### Get Windows BIOS Keys
 
-    sudo hexdump -s 56 -e '"MSDM key: " /29 "%s\n"' /sys/firmware/acpi/tables/MSDM
+    sudo hexdump -s 56 -e \'"MSDM key: " /29 "%s\n"\' /sys/firmware/acpi/tables/MSDM
 
 
 ### Watch a Directory
@@ -98,7 +98,7 @@ I frequently find myself needing to lookup how to do simple things with Linux an
     gem install jekyll bundler
     bundle install
     bundle exec jekyll serve --watch --trace
-    bundler exec jekyll build && bash -c 'cd _site && python -m http.server 3000' # workaround for Ruby3
+    bundler exec jekyll build && bash -c \'cd _site && python -m http.server 3000\' # workaround for Ruby3
 
 
 ### Boot Repair Setup
@@ -110,7 +110,7 @@ I frequently find myself needing to lookup how to do simple things with Linux an
 ### Fix annoying K380 function key defaults
 
     # Download and build configuration script from https://github.com/jergusg/k380-function-keys-conf
-    # Then add the below to the root's crontab: * * * * * /home/nic/k380hack.sh
+    # Then add the below to the root\'s crontab: * * * * * /home/nic/k380hack.sh
     # k380hack.sh
     /home/nic/software/k380-function-keys-conf/k380_conf -d /dev/hidraw0 -f on
     /home/nic/software/k380-function-keys-conf/k380_conf -d /dev/hidraw1 -f on
@@ -124,7 +124,7 @@ I frequently find myself needing to lookup how to do simple things with Linux an
 
 ### Show all Pandas columns
 
-    pd.set_option('display.max_colwidth', -1)
+    pd.set_option(\'display.max_colwidth\', -1)
 
 
 ### Increase Width of Jupyter Notebook

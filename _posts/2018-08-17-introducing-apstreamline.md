@@ -10,7 +10,7 @@ layout: post
 
 **Download APSync with APStreamline built in from [here](http://firmware.ardupilot.org/Companion/apsync/beta/apsync-rpi-20180918172614.img.xz) (BETA)!**
 
-I'm very excited to announce the release of a network adaptive video streaming solution for ArduPilot!
+I\'m very excited to announce the release of a network adaptive video streaming solution for ArduPilot!
 
 ## Links to the code
 
@@ -43,7 +43,7 @@ Options to **record** the live-streamed video feed to the companion computer
 - 
 Camera settings **configurable** through the **APWeb GUI**
 
-I'm chuffed to say that this has not only met the requirements for the GSoC project but has also covered the stretch goals I had outlined in my proposal!
+I\'m chuffed to say that this has not only met the requirements for the GSoC project but has also covered the stretch goals I had outlined in my proposal!
 
 Streaming video from robots is an interesting problem.  There are several different use cases – you might be a marine biologist with a snazzy [BlueROV](https://www.bluerobotics.com/store/rov/bluerov2/) equipped with several cameras or a UAV enthusiast with the itch of flying FPV.  APStreamline caters to these and several other use cases.
 
@@ -55,9 +55,9 @@ This project aims to fixes problem by dynamically adjusting the video quality in
 
 ### Hardware
 
-All the following instructions are for installing APStreamline and APWeb on the CC. A Raspberry Pi 2/3/3B+ with the latest version of Raspian or APSync is a good choice. Intel NUC's are excellent choices as well.
+All the following instructions are for installing APStreamline and APWeb on the CC. A Raspberry Pi 2/3/3B+ with the latest version of Raspian or APSync is a good choice. Intel NUC\'s are excellent choices as well.
 
-Do note that the Raspberry Pi 3 and 3B+ have **very** low power Wi-Fi antennae which aren't great for video streaming. Using a portable Wi-Fi router like the TPLink MR-3020 can dramatically improve range. Wi-Fi USB dongles working in hotspot mode can help as well.
+Do note that the Raspberry Pi 3 and 3B+ have **very** low power Wi-Fi antennae which aren\'t great for video streaming. Using a portable Wi-Fi router like the TPLink MR-3020 can dramatically improve range. Wi-Fi USB dongles working in hotspot mode can help as well.
 
 ### Installing APStreamline
 

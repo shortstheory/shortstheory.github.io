@@ -7,7 +7,7 @@ tags: KDE
 layout: post
 ---
 
-It's been almost a year since I finished my GSoC project for implementing discontinuous file selections as a KIOSlave.
+It\'s been almost a year since I finished my GSoC project for implementing discontinuous file selections as a KIOSlave.
 
 The ioslave is now officially shipped in the KDE ExtraGear Utils software package and it can be downloaded from here: [https://download.kde.org/stable/kio-stash/kio-stash-1.0.tar.xz.mirrorlist](https://download.kde.org/stable/kio-stash/kio-stash-1.0.tar.xz.mirrorlist)
 
@@ -23,7 +23,7 @@ This project consists of the following modules. As there is no existing implemen
 
 ### KIO Slave
 
-The KIO slave is the backbone of the project. This KIO slave is responsible for interfacing with the GUI of a KDE application and provides the methods for various operations such as copying, deleting, and renaming files. All operations on the KIO slave are applied on a virtual stash filesystem (explained below). These operations are applied through inter process communication using the Qt's D-Bus API.
+The KIO slave is the backbone of the project. This KIO slave is responsible for interfacing with the GUI of a KDE application and provides the methods for various operations such as copying, deleting, and renaming files. All operations on the KIO slave are applied on a virtual stash filesystem (explained below). These operations are applied through inter process communication using the Qt\'s D-Bus API.
 
 The advantage of the KIO slave is that it provides a consistent experience throughout the entire KDE suite of applications. Hence, this feature would work with all KIO compatible applications.
 
@@ -55,7 +55,7 @@ Download the tarball to your favorite folder, extract, and run:
 
 ## Result
 
-Open Dolphin and set the path as `stash:/`. This directory is completely 'virtual' and anything added to it will not consume any extra disk space. All basic file operations such as copy, paste, and move should work.
+Open Dolphin and set the path as `stash:/`. This directory is completely \'virtual\' and anything added to it will not consume any extra disk space. All basic file operations such as copy, paste, and move should work.
 
 Folders can be created, curated, and renamed on this virtual folder itself. However, as this is a virtual directory, files cannot be created on it.
 

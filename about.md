@@ -30,6 +30,6 @@ document.getElementById("pp").src = "/static/"+pic;
 
 # Hi!
 
-I'm **Arnav Dhamija**, and I work as a software engineer on autonomous vehicles at NVIDIA! Before this, I was an MSE Robotics student at the University of Pennsylvania. I enjoy talking about and looking at airplanes. My other hobbies are running, photography, and maintaining this blog.
+I\'m **Arnav Dhamija**, and I work as a software engineer on autonomous vehicles at NVIDIA! Before this, I was an MSE Robotics student at the University of Pennsylvania. I enjoy talking about and looking at airplanes. My other hobbies are running, photography, and maintaining this blog.
 
 I am better known as `shortstheory` online. You can read my [resume here](/static/arnav-dhamija.pdf)!

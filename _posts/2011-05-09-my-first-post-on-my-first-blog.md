@@ -7,7 +7,7 @@ tags: FirstPost, Misc
 layout: post
 ---
 
-Blogging. Well, something I've wanted to do earnestly for some time.
+Blogging. Well, something I\'ve wanted to do earnestly for some time.
 
 And just as well, this is and will be my very first post.
 
