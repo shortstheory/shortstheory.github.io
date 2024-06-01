@@ -8,20 +8,32 @@ layout: page
 
 This is a continuously updated list of books I\'ve read since 2018. Books which have stood out to me are in bold:
 
+### 2024
+
+- **Outlive - Peter Attia**
+- Why We Sleep - Matthew Walker
+- Roadside MBA - Michael Mazzeo
+- **Old Man and the Sea - Ernest Hemingway**
+- Nightshade Revenge - Anthony Horowithz
+- **The Sirens of Titan - Kurt Vonnegut**
+- **Gone Girl - Gillian Flynn**
+- I am Pilgrim - Terry Hayes
+- **Slaughterhouse-Five - Kur Vonnegut**
+
 ### 2023
 
 - India and Asian Geopolitics - Shivshankar Menon
 - Building Wealth One House at a Time - John W. Schaub
 - The Little Book of Common Sense Investing - John C Bogle
 - Ikigai - Francesc Miralles and Hector Garcia
+- **Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin**
 - **The Shining - Stephen King**
-- **The Body Keeps the Score - Bessel van der Kolk**
+- The Body Keeps the Score - Bessel van der Kolk
 - A Wild Sheep Chase - Haruki Murakami
 - **Kafka on the Shore - Haruki Murakami**
 - The Silent Patient - Alex Michaelides
 - **Salt Sugar Fat - Michael Moss**
-
-
+- The Vegetarian - Han Kang
 
 ### 2022
 
