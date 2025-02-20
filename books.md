@@ -18,7 +18,13 @@ This is a continuously updated list of books I\'ve read since 2018. Books which 
 - **The Sirens of Titan - Kurt Vonnegut**
 - **Gone Girl - Gillian Flynn**
 - I am Pilgrim - Terry Hayes
+- Mahabharta - RK Narayan
+- Eleanor Oliphant is Completely Fine - Gail Honeyman
 - **Slaughterhouse-Five - Kurt Vonnegut**
+- **Shoe Dog - Phil Knight**
+- **Why Calories Don't Count - Gil Yeo**
+- Breath - James Nestor
+- **Masters of Doom - David Kushne** 
 
 ### 2023
 
