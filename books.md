@@ -1,5 +1,5 @@
 ---
-title: Books I\'ve Read
+title: Books I've Read
 slug: books
 date_published: 2019-12-31T06:54:07.000Z
 date_updated: 2020-04-30T04:59:50.000Z
@@ -18,7 +18,7 @@ This is a continuously updated list of books I\'ve read since 2018. Books which 
 - **The Sirens of Titan - Kurt Vonnegut**
 - **Gone Girl - Gillian Flynn**
 - I am Pilgrim - Terry Hayes
-- **Slaughterhouse-Five - Kur Vonnegut**
+- **Slaughterhouse-Five - Kurt Vonnegut**
 
 ### 2023
 
