@@ -3,7 +3,7 @@ title: The 1 = Everything equation
 slug: the-1-everything-equation
 date_published: 2011-09-21T12:27:00.000Z
 date_updated: 2018-08-13T22:04:41.000Z
-tags: Rants, Misc
+tags: [Rants, Misc]
 layout: post
 ---
 

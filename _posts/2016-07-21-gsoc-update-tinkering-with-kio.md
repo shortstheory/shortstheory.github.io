@@ -3,7 +3,7 @@ title: "GSoC Update: Tinkering with KIO"
 slug: gsoc-update-tinkering-with-kio
 date_published: 2016-07-21T13:48:00.000Z
 date_updated: 2019-06-14T11:19:14.000Z
-tags: GSoC, KDE
+tags: [GSoC, KDE]
 layout: post
 ---
 

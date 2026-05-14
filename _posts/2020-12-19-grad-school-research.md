@@ -2,7 +2,7 @@
 title: Research During Masters
 slug: grad-school-research
 date_published: 2020-12-19T12:52:57.000Z
-tags: College
+tags: [College]
 layout: post
 ---
 

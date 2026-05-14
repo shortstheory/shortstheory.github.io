@@ -3,7 +3,7 @@ title: Before the exams...
 slug: before-the-exams
 date_published: 2011-09-10T00:45:00.000Z
 date_updated: 2018-08-13T22:00:06.000Z
-tags: Misc
+tags: [Misc]
 layout: post
 ---
 

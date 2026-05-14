@@ -3,7 +3,7 @@ title: Nil Sine Pokemon
 slug: nil-sine-pokemon
 date_published: 2012-04-30T15:35:00.000Z
 date_updated: 2018-08-13T22:29:52.000Z
-tags: Misc, Pokemon, Life
+tags: [Misc, Pokemon, Life]
 layout: post
 ---
 

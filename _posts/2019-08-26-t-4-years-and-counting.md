@@ -3,7 +3,7 @@ title: "T+4 Years And Counting: Turning over a new leaf"
 slug: t-4-years-and-counting
 date_published: 2019-08-26T04:44:12.000Z
 date_updated: 2019-08-28T15:47:11.000Z
-tags: Life, College, Travel
+tags: [Life, College, Travel]
 layout: post
 ---
 

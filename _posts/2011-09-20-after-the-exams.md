@@ -3,7 +3,7 @@ title: After the exams...
 slug: after-the-exams
 date_published: 2011-09-20T18:09:00.000Z
 date_updated: 2018-08-13T22:02:23.000Z
-tags: Misc
+tags: [Misc]
 layout: post
 ---
 

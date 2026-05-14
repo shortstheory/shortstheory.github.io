@@ -1,7 +1,7 @@
 ---
 title: "Driving Alone"
 slug: driving-alone
-tags: Life
+tags: [Life]
 date_published: 2024-05-30
 date_updated: 2024-05-30
 layout: post

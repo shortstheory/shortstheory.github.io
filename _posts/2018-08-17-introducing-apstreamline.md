@@ -3,7 +3,7 @@ title: Introducing APStreamline!
 slug: introducing-apstreamline
 date_published: 2018-08-17T22:11:59.000Z
 date_updated: 2018-09-23T13:40:37.000Z
-tags: GSoC, Programming, Ardupilot
+tags: [GSoC, Programming, Ardupilot]
 excerpt: Streaming video over Wi-Fi just got better!
 layout: post
 ---

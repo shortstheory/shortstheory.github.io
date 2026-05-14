@@ -3,7 +3,7 @@ title: "What do I do now?"
 slug: what-do-i-do-now
 date_published: 2016-04-14T00:08:00.000Z
 date_updated: 2019-01-08T11:19:29.000Z
-tags: Rants, College, Life
+tags: [Rants, College, Life]
 layout: post
 ---
 

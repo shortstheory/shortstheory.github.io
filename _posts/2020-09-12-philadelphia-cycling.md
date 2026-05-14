@@ -3,7 +3,7 @@ title: Cycling in Philadelphia
 slug: philadelphia-cycling
 date_published: 2020-09-12T19:51:20.000Z
 date_updated: 2020-09-12T09:33:38.000Z
-tags: Travel
+tags: [Travel]
 layout: post
 ---
 

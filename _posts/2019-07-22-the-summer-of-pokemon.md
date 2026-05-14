@@ -3,7 +3,7 @@ title: The Summer of Pokemon
 slug: the-summer-of-pokemon
 date_published: 2019-07-22T11:42:36.000Z
 date_updated: 2019-07-22T19:50:06.000Z
-tags: Pokemon, Life
+tags: [Pokemon, Life]
 excerpt: My thoughts on playing the last three Pokemon gens in reverse.
 layout: post
 ---

@@ -2,7 +2,7 @@
 title: Hertz Rental Scam
 slug: hertz-rental-scam
 date_published: 2023-06-09
-tags: Hertz Rental Scam
+tags: ["Hertz Rental Scam"]
 layout: post
 ---
 

@@ -3,7 +3,7 @@ title: It has happened - GSoC 2016 Selection!
 slug: it-has-happened-gsoc-2016-selection
 date_published: 2016-04-23T10:58:00.000Z
 date_updated: 2018-08-14T08:26:08.000Z
-tags: GSoC, KDE
+tags: [GSoC, KDE]
 layout: post
 ---
 

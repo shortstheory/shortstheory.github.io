@@ -2,7 +2,7 @@
 title: I got vaccinated!
 slug: i-got-vaccinated
 date_published: 2021-04-3T15:05:57.000Z
-tags: COVID19
+tags: [COVID19]
 layout: post
 ---
 

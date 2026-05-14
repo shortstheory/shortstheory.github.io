@@ -3,7 +3,7 @@ title: "Photography: Volume 4"
 slug: photography-volume-4
 date_published: 2012-10-25T13:41:00.000Z
 date_updated: 2018-08-14T08:13:39.000Z
-tags: Photography
+tags: [Photography]
 layout: post
 ---
 

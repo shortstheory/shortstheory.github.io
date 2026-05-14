@@ -2,7 +2,7 @@
 title: Pebble Cobbler 2023 Race Report
 slug: pebble-cobbler
 date_published: 2022-02-20
-tags: Biking
+tags: [Biking]
 layout: post
 ---
 
@@ -73,4 +73,3 @@ The final sector of the Pebbler started off with a simple creek crossing. My pai
 Just before the Rock/Pebble Cobbler split, I came across the water ball pit challenge. I wasn\'t looking forward to wading through ankle deep water and getting my shoes all soggy. If I had been thinking straight, I would have thought to take my shoes off before getting in. Although every km beyond the 70km point was uncharted territory for me, I knew I had just enough in the tank to make it through the final 10km. The sun was finally breaking through the clouds, the path was paved, and the worst of the climbs was well behind me. I was feeling optimistic about finishing this and also proud about how far I had come in the race. After the course split, I found myself riding along the Kern river, just as I had a few hours ago at the start of the race. I was putting more into the pedals now and I was cruising at 27-30km/hr till the end. I found myself getting passed by some riders who had saving their final burst of energy for the end. I put my head down and watched the kilometers tick away on my watch. It wasn\'t until I reached the car parking lot that it hit me that I was only seconds away from the finish line! But wait! The track had been rearranged while I was out at the race and the final sprint to the finish involved a few obstacles like riding through a sandpit, dodging barrels, and negotiating tree roots. I took my another right turn and I was right back where I was 6hrs18mins ago. I smashed the pedals one last time with my right fist pumping the air as I went pass the finish line, 149th . I could not believe what I had just experienced. I was hurting all over and I was only able to stand because of the adrenaline. My shoes were soggy and my clothes were all muddy, but I couldn\'t care less in the moment.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/juPx-toHTyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-

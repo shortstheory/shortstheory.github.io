@@ -3,7 +3,7 @@ title: Photography Protips!
 slug: photography-protips
 date_published: 2012-09-09T18:56:00.000Z
 date_updated: 2018-08-13T22:40:32.000Z
-tags: Photography
+tags: [Photography]
 layout: post
 ---
 

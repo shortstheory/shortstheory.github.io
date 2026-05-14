@@ -3,7 +3,7 @@ title: Places to Visit in Singapore
 slug: recommended-viewing-in-singapore
 date_published: 2019-05-30T11:32:58.000Z
 date_updated: 2019-12-26T23:39:02.000Z
-tags: Travel, Life
+tags: [Travel, Life]
 layout: post
 ---
 

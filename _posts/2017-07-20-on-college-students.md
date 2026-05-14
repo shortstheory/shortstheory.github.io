@@ -3,7 +3,7 @@ title: On College Students
 slug: on-college-students
 date_published: 2017-07-20T19:00:00.000Z
 date_updated: 2019-05-07T07:49:35.000Z
-tags: Misc
+tags: [Misc]
 layout: post
 ---
 

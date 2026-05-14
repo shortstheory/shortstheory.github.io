@@ -2,7 +2,7 @@
 title: Thoughts After Masters
 slug: thoughts-after-masters
 date_published: 2021-09-14T10:05:57.000Z
-tags: Life, College
+tags: [Life, College]
 layout: post
 ---
 

@@ -3,7 +3,7 @@ title: Singapore!
 slug: singapore
 date_published: 2019-02-18T19:51:20.000Z
 date_updated: 2019-02-20T09:33:38.000Z
-tags: Life, College, Travel
+tags: [Life, College, Travel]
 layout: post
 ---
 

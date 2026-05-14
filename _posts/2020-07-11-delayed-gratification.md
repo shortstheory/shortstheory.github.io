@@ -3,7 +3,7 @@ title: Delayed Gratification
 slug: delayed-gratification
 date_published: 2020-07-12T1:00:00.000Z
 date_updated: 2020-07-12T1:00:00.000Z
-tags: Life, COVID19, Productivity
+tags: [Life, COVID19, Productivity]
 layout: post
 ---
 

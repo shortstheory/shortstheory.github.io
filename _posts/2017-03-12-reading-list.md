@@ -3,7 +3,7 @@ title: Reading List
 slug: reading-list
 date_published: 2017-03-12T22:20:00.000Z
 date_updated: 2018-08-14T10:00:54.000Z
-tags: Reading
+tags: [Reading]
 layout: post
 ---
 

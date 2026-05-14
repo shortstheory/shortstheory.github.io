@@ -2,7 +2,7 @@
 title: Running Deep Learning Models in 2020
 slug: running-dl-models
 date_published: 2020-12-27T11:05:57.000Z
-tags: Tech
+tags: [Tech]
 layout: post
 ---
 

@@ -2,7 +2,7 @@
 title: A year of work
 slug: year-of-work
 date_published: 2022-09-13
-tags: Life
+tags: [Life]
 layout: post
 ---
 

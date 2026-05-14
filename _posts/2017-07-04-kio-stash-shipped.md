@@ -3,7 +3,7 @@ title: KIO Stash - Shipped!
 slug: kio-stash-shipped
 date_published: 2017-07-04T10:00:00.000Z
 date_updated: 2018-08-14T10:05:08.000Z
-tags: KDE
+tags: [KDE]
 layout: post
 ---
 

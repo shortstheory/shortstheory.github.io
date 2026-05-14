@@ -3,7 +3,7 @@ title: "Rantings: Indian Education"
 slug: rantings-indian-education
 date_published: 2012-02-03T15:10:00.000Z
 date_updated: 2018-08-13T22:25:33.000Z
-tags: Rants
+tags: [Rants]
 layout: post
 ---
 

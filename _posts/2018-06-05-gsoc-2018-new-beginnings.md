@@ -3,7 +3,7 @@ title: GSoC 2018 - New Beginnings
 slug: gsoc-2018-new-beginnings
 date_published: 2018-06-05T17:00:00.000Z
 date_updated: 2018-08-14T19:51:50.000Z
-tags: Ardupilot, GSoC, Programming
+tags: [Ardupilot, GSoC, Programming]
 layout: post
 ---
 

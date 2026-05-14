@@ -3,7 +3,7 @@ title: My First Post on My First Blog
 slug: my-first-post-on-my-first-blog
 date_published: 2011-05-09T14:58:00.000Z
 date_updated: 2018-08-13T21:58:05.000Z
-tags: FirstPost, Misc
+tags: [FirstPost, Misc]
 layout: post
 ---
 

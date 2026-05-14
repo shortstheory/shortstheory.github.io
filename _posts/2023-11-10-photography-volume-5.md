@@ -1,7 +1,7 @@
 ---
 title: "Photography: Volume 5 - National Park Edition!"
 slug: photography-volume-5
-tags: Photography
+tags: [Photography]
 date_published: 2023-11-10
 date_updated: 2023-11-10
 layout: post

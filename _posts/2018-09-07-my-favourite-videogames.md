@@ -3,7 +3,7 @@ title: My Favourite Videogames (Part 1)
 slug: my-favourite-videogames
 date_published: 2018-09-07T22:42:07.000Z
 date_updated: 2019-01-09T22:22:38.000Z
-tags: Pokemon, Gaming, Misc
+tags: [Pokemon, Gaming, Misc]
 layout: post
 ---
 

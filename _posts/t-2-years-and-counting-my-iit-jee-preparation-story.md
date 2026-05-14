@@ -3,7 +3,7 @@ title: "T+2 Years And Counting: My IIT-JEE preparation story"
 slug: t-2-years-and-counting-my-iit-jee-preparation-story
 date_published: 2015-06-17T08:59:00.000Z
 date_updated: 2019-05-20T09:59:04.000Z
-tags: JEE, Life
+tags: [JEE, Life]
 layout: post
 draft: true
 ---

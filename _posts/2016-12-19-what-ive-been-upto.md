@@ -3,7 +3,7 @@ title: What I\'ve been upto
 slug: what-ive-been-upto
 date_published: 2016-12-19T10:39:00.000Z
 date_updated: 2018-08-14T09:59:39.000Z
-tags: College, Life
+tags: [College, Life]
 layout: post
 ---
 

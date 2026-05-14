@@ -3,7 +3,7 @@ title: Quadcopters - The Beginning!
 slug: quadcopters-the-beginning
 date_published: 2017-05-26T08:00:00.000Z
 date_updated: 2018-08-14T09:08:39.000Z
-tags: Quadcopters, Electronics
+tags: [Quadcopters, Electronics]
 layout: post
 ---
 

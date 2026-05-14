@@ -3,7 +3,7 @@ title: The Last Lecture
 slug: the-last-lecture
 date_published: 2018-09-19T20:21:08.000Z
 date_updated: 2018-09-20T18:49:12.000Z
-tags: Life, Reading
+tags: [Life, Reading]
 excerpt: Thoughts on The Last Lecture, by Randy Pausch
 layout: post
 ---

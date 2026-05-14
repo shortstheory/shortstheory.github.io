@@ -3,7 +3,7 @@ title: Blog Migration Complete!
 slug: blog-migration-complete
 date_published: 2017-02-05T23:20:00.000Z
 date_updated: 2018-08-13T22:56:09.000Z
-tags: Misc, Programming
+tags: [Misc, Programming]
 layout: post
 ---
 

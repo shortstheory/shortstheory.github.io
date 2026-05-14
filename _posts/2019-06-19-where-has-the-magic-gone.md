@@ -3,7 +3,7 @@ title: Where has the magic gone?
 slug: where-has-the-magic-gone
 date_published: 2019-06-19T14:02:13.000Z
 date_updated: 2019-12-27T06:07:09.000Z
-tags: Rants, Misc, Programming
+tags: [Rants, Misc, Programming]
 excerpt: A big change that I\'ve realised during undergrad is that engineering doesn\'t feel \'magical\' anymore. 
 layout: post
 ---

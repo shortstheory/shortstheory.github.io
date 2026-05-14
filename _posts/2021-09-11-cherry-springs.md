@@ -2,7 +2,7 @@
 title: Stargazing at Cherry Springs State Park
 slug: cherry-springs
 date_published: 2021-09-11T10:05:57.000Z
-tags: Travel
+tags: [Travel]
 layout: post
 ---
 

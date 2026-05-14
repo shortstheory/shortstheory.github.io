@@ -3,7 +3,7 @@ title: Quadcopters - A Hitchhiker\'s Guide to the Sky
 slug: quadcopters-a-hitchhikers-guide-to-the-sky
 date_published: 2017-06-13T08:00:00.000Z
 date_updated: 2018-08-14T09:06:57.000Z
-tags: Quadcopters, Electronics
+tags: [Quadcopters, Electronics]
 layout: post
 ---
 

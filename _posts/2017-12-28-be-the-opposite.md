@@ -3,7 +3,7 @@ title: Be The Opposite
 slug: be-the-opposite
 date_published: 2017-12-28T09:59:00.000Z
 date_updated: 2018-08-14T19:46:29.000Z
-tags: Life, Misc
+tags: [Life, Misc]
 layout: post
 ---
 

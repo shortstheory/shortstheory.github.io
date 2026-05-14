@@ -3,7 +3,7 @@ title: "GSoC Update(?): Writing a KIO slave 101!"
 slug: gsoc-update-writing-a-kio-slave-101
 date_published: 2016-06-21T22:05:00.000Z
 date_updated: 2019-06-14T11:19:00.000Z
-tags: GSoC, Programming, KDE
+tags: [GSoC, Programming, KDE]
 layout: post
 ---
 

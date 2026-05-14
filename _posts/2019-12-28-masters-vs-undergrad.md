@@ -3,7 +3,7 @@ title: Masters vs Undergrad
 slug: masters-vs-undergrad
 date_published: 2019-12-28T11:58:57.000Z
 date_updated: 2020-01-13T12:12:01.000Z
-tags: College, Life
+tags: [College, Life]
 layout: post
 ---
 

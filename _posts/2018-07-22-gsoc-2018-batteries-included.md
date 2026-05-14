@@ -3,7 +3,7 @@ title: GSoC 2018 - Batteries Included!
 slug: gsoc-2018-batteries-included
 date_published: 2018-07-22T21:00:00.000Z
 date_updated: 2018-08-17T20:42:41.000Z
-tags: Ardupilot, GSoC, Programming
+tags: [Ardupilot, GSoC, Programming]
 layout: post
 ---
 

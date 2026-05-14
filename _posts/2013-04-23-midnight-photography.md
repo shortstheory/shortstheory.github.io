@@ -3,7 +3,7 @@ title: Midnight Photography!
 slug: midnight-photography
 date_published: 2013-04-23T10:53:00.000Z
 date_updated: 2018-08-14T08:21:25.000Z
-tags: Photography
+tags: [Photography]
 layout: post
 ---
 

@@ -3,7 +3,7 @@ title: "GSoC Update 1: The Beginning"
 slug: gsoc-update-1-the-beginning
 date_published: 2016-05-30T09:07:00.000Z
 date_updated: 2019-06-14T11:18:48.000Z
-tags: GSoC, KDE, Programming
+tags: [GSoC, KDE, Programming]
 layout: post
 ---
 

@@ -3,7 +3,7 @@ title: "ThinkPad 13: Thoughts after 18+ months"
 slug: thinkpad-13-thoughts-after-18-months
 date_published: 2017-12-10T09:59:00.000Z
 date_updated: 2018-08-14T19:12:10.000Z
-tags: Tech, Misc
+tags: [Tech, Misc]
 layout: post
 ---
 

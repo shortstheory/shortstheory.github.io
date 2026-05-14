@@ -3,7 +3,7 @@ title: GSoC Report - Wrapping up GSoC 2016
 slug: gsoc-report-wrapping-up-gsoc-2016
 date_published: 2016-08-30T00:15:00.000Z
 date_updated: 2019-06-14T11:19:31.000Z
-tags: GSoC, KDE
+tags: [GSoC, KDE]
 layout: post
 ---
 

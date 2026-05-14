@@ -3,7 +3,7 @@ title: GSoC 2016 Project Survey, help me make Dolphin a better File Manager!
 slug: gsoc-2016-project-survey-help-me-make-dolphin-a-better-file-manager
 date_published: 2016-02-15T20:46:00.000Z
 date_updated: 2018-08-14T08:17:24.000Z
-tags: GSoC, Programming, KDE
+tags: [GSoC, Programming, KDE]
 layout: post
 ---
 

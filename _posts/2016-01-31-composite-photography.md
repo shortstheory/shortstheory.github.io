@@ -3,7 +3,7 @@ title: Composite Photography
 slug: composite-photography
 date_published: 2016-01-31T21:33:00.000Z
 date_updated: 2018-08-14T08:12:24.000Z
-tags: Photography
+tags: [Photography]
 layout: post
 ---
 

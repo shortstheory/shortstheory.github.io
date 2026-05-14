@@ -3,7 +3,7 @@ title: Using the Logitech F310 gamepad with the DJI Tello
 slug: using-the-logitech-f310-with-the-dji-tello
 date_published: 2019-06-27T21:01:36.000Z
 date_updated: 2019-06-27T22:06:58.000Z
-tags: Quadcopters, Tech, Electronics
+tags: [Quadcopters, Tech, Electronics]
 layout: post
 ---
 
