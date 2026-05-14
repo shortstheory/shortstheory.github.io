@@ -7,7 +7,7 @@ tags: [Ardupilot, GSoC, Programming]
 layout: post
 ---
 
-I\'m really excited to say that I\'ll be working with [Ardupilot](ardupilot.org) for the better part of the next two months! Although this is the second time I\'m making a foray into Open Source Development, the project at hand this time is quite different from what I had worked on in my first GSoC project.
+I\'m really excited to say that I\'ll be working with [Ardupilot](https://ardupilot.org) for the better part of the next two months! Although this is the second time I\'m making a foray into Open Source Development, the project at hand this time is quite different from what I had worked on in my first GSoC project.
 
 Ardupilot is an open-source autopilot software for several types of semi-autonomous robotic vehicles including multicopters, fixed-wing aircraft, and even marine vehicles such as boats and submarines. As the name suggests, Ardupilot was formerly based on the Arduino platform with the APM2.x flight controllers which boasted an ATMega2560 processor. Since then, Ardupilot has moved on to officially supporting much more advanced boards with significantly better processors and more robust hardware stacks. That said, these flight controllers contain application specific embedded hardware which is unsuitable for performing intensive tasks such as real-time object detection or video processing.
 

@@ -21,4 +21,4 @@ Nevertheless, the benefits in this case far outweighed the potential cons and I 
 
 With the ioslave and other modules of the application largely completed, the current phase of the project involves integrating the feature neatly with Dolphin and for writing a couple of unit tests along the way. I\'m looking forward to a good finish with this project.
 
-You can find the source for it here: [https://github.com/KDE/kio-stash](https://github.com/KDE/kio-stash) (did I mention it\'s now hosted on a [KDE repo]([https://quickgit.kde.org/?p=kio-](https://quickgit.kde.org/?p=kio-) stash.git)? ;) )
+You can find the source for it here: [https://github.com/KDE/kio-stash](https://github.com/KDE/kio-stash) (did I mention it\'s now hosted on a [KDE repo](https://quickgit.kde.org/?p=kio-stash.git)? ;) )

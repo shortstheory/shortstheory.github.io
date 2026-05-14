@@ -24,7 +24,7 @@ If you don\'t feel like creating these yourself, just clone it from here: [https
 
 #### hello.json
 
-The .json file replaces the .protocol files used in KIO slaves pre KF5. The .json file for the KIO slave specifies the properties the KIO slave will have such as the executable path to the KIO slave on installation. The .json file also includes properties of the slave such as being able to read from, write to, delete from, among many others. Fields in this .json file are specified from the [KProtocolManager]([https://api.kde.org/frameworks/kio/html/classKProt](https://api.kde.org/frameworks/kio/html/classKProt) ocolManager.html) class. For creating a KIO slave capable of showing a directory in a file manager such as Dolphin, the listing property must be set to true. As an example, the .json file for the Hello KIO slave described in this tutorial looks like this:
+The .json file replaces the .protocol files used in KIO slaves pre KF5. The .json file for the KIO slave specifies the properties the KIO slave will have such as the executable path to the KIO slave on installation. The .json file also includes properties of the slave such as being able to read from, write to, delete from, among many others. Fields in this .json file are specified from the [KProtocolManager](https://api.kde.org/frameworks/kio/html/classKProtocolManager.html) class. For creating a KIO slave capable of showing a directory in a file manager such as Dolphin, the listing property must be set to true. As an example, the .json file for the Hello KIO slave described in this tutorial looks like this:
 
     {  
         "KDE-KIO-Protocols" : {   

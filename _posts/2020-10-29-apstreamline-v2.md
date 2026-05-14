@@ -41,7 +41,7 @@ There might be more elements or additional capsfilters depending on each camera.
 3) Subclass the `Camera` class and override the functions for which you want to add specific support for your camera. To give an example, the ways in which the H264 encoding bitrate is set are different for various cameras and encoder configurations. For instance, pipelines which use the `x264enc` encoder can change the bitrate by using `g_object_set`, whereas the Raspberry Pi camera GStreamer pipeline needs an IOCTL to change the bitrate.
 There is a fair bit of trial and error to discover what the capabilities of a GStreamer pipeline are. Not all pipelines support the dynamic resolution adaptation of APStreamline, so this feature must be disabled if it causes the pipeline to crash in testing.
 
-4) Create a new type for your camera and add it to the [`CameraType`]((https://github.com/shortstheory/APStreamline/blob/master/src/Camera/CameraType.h)) enum class.
+4) Create a new type for your camera and add it to the [`CameraType`](https://github.com/shortstheory/APStreamline/blob/master/src/Camera/CameraType.h) enum class.
 
 5) Add the enum created in the previous step to the [`CameraFactory`](https://github.com/shortstheory/APStreamline/blob/master/src/Camera/CameraFactory.h) class.
 

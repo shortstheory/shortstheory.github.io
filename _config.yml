@@ -109,7 +109,7 @@ defaults:
       layout: post
       comments: true
       toc: true
-      permalink: /posts/:title/
+      permalink: /:year/:month/:day/:slug/
   - scope:
       path: _drafts
     values:
