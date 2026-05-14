@@ -1,0 +1,68 @@
+---
+---
+
+@use 'main';
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;700&display=swap');
+
+body {
+  font-size: 16px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.content {
+  font-size: calc(1.08rem + 2pt);
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.site-title,
+.site-subtitle,
+.nav-link,
+.panel-heading,
+.post-meta,
+.post-tag,
+button,
+input,
+textarea,
+select {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.25;
+  padding-bottom: 0.08em;
+}
+
+#post-list .card-title,
+.post-preview h1,
+.post-preview h2 {
+  line-height: 1.25;
+  padding-bottom: 0.1em;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-wrap: balance;
+}
+
+#post-list .card-text.content p {
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-align: left;
+  text-wrap: pretty;
+}
+
+@media (min-width: 1200px) {
+  .content {
+    font-size: calc(1.03rem + 2pt);
+  }
+}
